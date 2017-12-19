@@ -1,0 +1,48 @@
+# file-output.py
+from bs4 import BeautifulSoup
+
+import subprocess
+import requests
+import sys
+#https://www.uml.edu/student-dashboard/#my-academics/class-schedule/search?term=2730&subjects=COMP&partialCatalogNumber=1020
+#dept = raw_input("What deparment? ")
+#classID = raw_input("What class ID? ")
+#url = raw_input("Input: ")
+#print(url)
+file = open("preRecs", "w")
+#print len(sys.argv)
+if len(sys.argv) < 3:
+	print("Error: Not enough arguments!")
+	sys.exit()
+#print sys.argv[1].isupper()
+elif not sys.argv[1].isupper():
+	print("Error: Please enter all upper case for deparment")
+	sys.exit()
+elif not sys.argv[2].isdigit():
+	print("Error: Please enter a numeric value")
+	sys.exit()
+
+#url = raw_input("Enter a website to extract the URL's from: ")
+#link = "https://www.uml.edu/student-dashboard/#my-academics/class-schedule/search?term=2730&subjects=" + dept +"&partialCatalogNumber=" + classID
+link = "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx"
+#print link
+r = requests.get(link)
+
+data = r.text
+
+soup = BeautifulSoup(data, "html.parser")
+
+#print soup.prettify()
+#print(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
+file.write(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
+#print soup.p
+#print soup.p
+#for link in soup.find_all("div", "text"):
+#print(soup.find_all('div'))
+#print("\n")
+#	file.write(link.get('href'))
+#	file.write("\n")
+
+file.close()
+
+subprocess.call("./filter_prerequisites.sh", shell=True)
