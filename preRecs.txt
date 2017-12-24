@@ -1,59 +1,59 @@
-NONE
-Co-req:.COMP.1030L.Comp..1.Lab.
-Pre-req:.COMP.1010.Computing.I.and.COMP.1030L.Computing.I.Lab.
-NONE
-Co-req:.Computing.II.COMP.1020.
-NONE
-NONE
-Not.for.Academic.Plan.Computer.Science.(BS).
-NONE
-Pre-req:.COMP.1020.Computing.ll,.and.Co-req:.COMP.2010L.Computing.lll.Lab.
-Pre-req:.COMP.1020.Computing.ll,.and.Co-req:.COMP.2010.Computing.lll.
-Pre-req:.COMP.1020.Computing.ll,.and.Co-req:.COMP.2030L.Assembly.Language.Lab.
-Pre-req:.COMP.1020.Computing.ll,.and.Co-req:.COMP.2030.Computer.Organization.and.Assembly.Language.
-Pre-Req:.COMP.2010.Computing.III.
-Music.majors.only.
-NONE
-Pre-Req:.91.201.Computing.III.
-Pre-Req:.COMP.1020.Computing.II,.and.MATH.3220.Discrete.Structures.II.
-Pre-Req:.EECE.2650.Intro.to.Logic.Design,.COMP.1020.Computing.II,.COMP.2030.Comp.Org.&.Assembly.Lang.or.EECE.3170.Microprocessor.Syst.Des.I.
-Pre-Req:.91.305.Computer.Architecture.
-Pre-Req:.COMP.2040.Computing.IV.
-Pre-Req:.91.309.Database.I.
-Pre-Req:.COMP.1020.Computing.II.
-Pre-req:.COMP.3050.Computer.Architecture.
-Academic.Plan.or.minor.Computer.Science.(BS)..and.Level.Sophomore.Standing.
-Pre-Req:.91.401.Software.Project.I.
-Pre-Reqs:.COMP.1020.Computing.II,.MATH.3220.Discrete.Structures.ll.and.MATH.3860.Probability..&.Statistics.I.
-Pre-Req:.91.308.Operating.Systems.
-NONE
-Pre-Req:.COMP.2040.Computing.IV.
-Pre-Req:.91.411.Software.Engineering.I.
-Co-Req.or.Pre-Req:.91.308.Operating.Systems.
-Pre-Req:.91.413.Data.Communications.I.
-Co-req:.COMP.3010.Organization.of.Programming.Languages.and.MATH.3860.Probability.and.Statistics.I.
-Pre-Req:.COMP.4200.Artificial.Intelligence.or.COMP.3100.Database.II.
-Pre-Reqs:.COMP.1020.Computing.II,.MATH.3220.Discrete.Structures.ll.and.MATH.3860.Probability..&.Statistics.I.
-Pre-req:.COMP.1020.Computing.II,.MATH.1320.Calculus.II,.and.MATH.3220.Discrete.Structures.II.
-Pre-Req:.91.201.Computing.III.
-Pre-Req:.91.427.Computer.Graphics.I.
-Pre-Req:.COMP.2010.Computing.III.
-Pre-req:.91.422.Machine.Learning.
-Pre-req:.COMP.1020.Computing.II,.or.Co-req:.EECE.3170.Microprocessor.System.Design.I.
-Pre-req:.COMP.1020.Computing.II,.or.EECE.3170.Microprocessor.System.Design.I.and.Co-req:.MATH.3860.Probability.and.Statistics.I.
-Pre-Reqs:.MATH.3210.Discrete.Structures.I.,.COMP.4040.Analysis.of.Algorithms.and.COMP.4130.Data.Communications.I.
-Junior.or.Senior.Status.
-Pre-Req:.COMP.2010.Computing.III.
-Pre-req:.COMP.4130.Data.Communication.I.
-Pre-Req:.91.461.GUI.Program.I.with.C.or.better
-Pre-req:.COMP.2040.Computing.lV.
-Pre-req:.COMP.4630.Mobile.App.Programming.l.
-Level.is.Junior.or.Senior.standing.
-Pre-Req.or.Co-Req:.91.480.Honors.Project.I.
-NONE
-NONE
-NONE
-NONE
-NONE
-NONE
-NONE
+COMP.1000 3 Media.Computing.(Formerly.91.100)............................................... 0 NONE     
+COMP.1010 3 Computing.I.(Formerly.91.101)................................................... 1 COMP.1030L     
+COMP.1020 3 Computing.II.(Formerly.91.102).................................................. 2 COMP.1010 COMP.1030L    
+COMP.1030L 1 Computing.I.Lab.(Formerly.91.103)............................................... 0 NONE     
+COMP.1040L 1 Computing.II.Lab.(Formerly.91.104).............................................. 1 COMP.1020     
+COMP.1080 3 Intro.to.App.Des.&.Mobile.Comp.(Formerly.91.108)................................ 0 NONE     
+COMP.1120 1 Undeclared.Science.Seminar.(Formerly.91.112).................................... 0 NONE     
+COMP.1130 3 Exploring.the.Internet.(Formerly.91.113)........................................ 0 NONE     
+COMP.1500 3 Topics.In.Computer.Science.(Formerly.91.150).................................... 0 NONE     
+COMP.2010 3 Computing.III.(Formerly.91.201)................................................. 2 COMP.1020 COMP.2010L    
+COMP.2010L 1 Computing.III.Lab............................................................... 2 COMP.1020 COMP.2010    
+COMP.2030 3 Assembly.Language.Programming.(Formerly.91.203)................................. 2 COMP.1020 COMP.2030L    
+COMP.2030L 1 Assembly.Language.Programming.Lab............................................... 2 COMP.1020 COMP.2030    
+COMP.2040 3 Computing.IV.(Formerly.91.204).................................................. 1 COMP.2010     
+COMP.2110 3 Computer.Science.for.SRT.Applications.(Formerly.91.211)......................... 0 NONE     
+COMP.2120 3 Special.Topics:.Sound.Thinking.(Formerly.91.212)................................ 0 NONE     
+COMP.3010 3 Organization.of.Programming.Languages.(Formerly.91.301)......................... 1 91.201     
+COMP.3040 3 Foundations.of.Computer.Science.(Formerly.91.304)............................... 2 COMP.1020 MATH.3220    
+COMP.3050 3 Computer.Architecture.(Formerly.91.305)......................................... 4 EECE.2650 COMP.1020 COMP.2030 EECE.3170  
+COMP.3080 3 Operating.Systems.(Formerly.91.308)............................................. 1 91.305     
+COMP.3090 3 Database.I.(Formerly.91.309).................................................... 1 COMP.2040     
+COMP.3100 3 Database.II.(Formerly.91.310)................................................... 1 91.309     
+COMP.3500 3 Special.Topics.(Formerly.91.350)................................................ 1 COMP.3050     
+COMP.3611 3 Introduction.to.Computer.Security............................................... 1 COMP.3050     
+COMP.4010 3 Software.Project.I.(Formerly.91.401)............................................ 0 NONE     
+COMP.4020 3 Software.Project.II.(Formerly.91.402)........................................... 1 91.401     
+COMP.4040 3 Analysis.of.Algorithms.(Formerly.91.404)........................................ 3 COMP.1020 MATH.3220 MATH.3860   
+COMP.4050 3 Parallel.Processing.(Formerly.91.405)........................................... 1 91.308     
+COMP.4060 3 Compiler.Construction.I.(Formerly.91.406)....................................... 0 NONE     
+COMP.4110 3 Software.Engineering.I.(Formerly.91.411)........................................ 1 COMP.2040     
+COMP.4120 3 Software.Engineering.II.(Formerly.91.412)....................................... 1 91.411     
+COMP.4130 3 Data.Communications.I.(Formerly.91.413)......................................... 1 91.308     
+COMP.4140 3 Data.Communications.II.(Formerly.91.414)........................................ 1 91.413     
+COMP.4200 3 Artificial.Intelligence.(Formerly.91.420)....................................... 2 COMP.3010 MATH.3860    
+COMP.4210 3 Data.Mining.(Formerly.91.421)................................................... 2 COMP.4200 COMP.3100    
+COMP.4220 3 Machine.Learning.(Formerly.91.422).............................................. 3 COMP.1020 MATH.3220 MATH.3860   
+COMP.4230 3 Computer.Vision.I.(Formerly.91.423.&.91.523).................................... 3 COMP.1020 MATH.1320 MATH.3220   
+COMP.4270 3 Computer.Graphics.I.(Formerly.91.427)........................................... 1 91.201     
+COMP.4280 3 Computer.Graphics..(Formerly.91.428)............................................ 1 91.427     
+COMP.4290 3 Bioinformatics.for.CS........................................................... 1 COMP.2010     
+COMP.4420 3 Natural.Language.Processing.(Formerly.91.442.&.91.542).......................... 1 91.422     
+COMP.4500 3 Mobile.Robotics.I.(Formerly.91.450)............................................. 2 COMP.1020 EECE.3170    
+COMP.4510 3 Mobile.Robotics.II.(Formerly.91.451)............................................ 3 COMP.1020 EECE.3170 MATH.3860   
+COMP.4570 3 Computer.Security.(Formerly.91.457)............................................. 3 MATH.3210 COMP.4040 COMP.4130   
+COMP.4600 3 Selected.Topics.(Formerly.91.460)............................................... 0 NONE     
+COMP.4610 3 Graphical.User.Interface.Programming.I.(Formerly.91.461)........................ 1 COMP.2010     
+COMP.4611 3 Cyber.Crime.Investigation....................................................... 1 COMP.4130     
+COMP.4620 3 Graphical.User.Interface.Programming.II.(Formerly.91.462)....................... 1 91.461     
+COMP.4630 3 Mobile.App.Programming.l........................................................ 1 COMP.2040     
+COMP.4631 3 Mobile.App.Programming.ll....................................................... 1 COMP.4630     
+COMP.4800 3 Honors.Project.I.(Formerly.91.480).............................................. 0 NONE     
+COMP.4810 3 Honors.Project.II.(Formerly.91.481)............................................. 1 91.480     
+COMP.4900 4 Directed.Studies.in.Computer.Science.(Formerly.91.490).......................... 0 NONE     
+COMP.4930 1 Cooperative.Education.in.Computer.Science.(Formerly.91.493)..................... 0 NONE     
+MSIT.3010 3 Organization.of.Programming.Languages.(Formerly.94.301)......................... 0 NONE     
+MSIT.3040 3 Foundations.of.Computer.Science.(Formerly.94.304)............................... 0 NONE     
+MSIT.3050 3 Computer.Architecture.(Formerly.94.305)......................................... 0 NONE     
+MSIT.3080 3 Introduction.to.Operating.Systems.(Formerly.94.308)............................. 0 NONE     
+MSIT.4040 3 Analysis.of.Algorithms.(Formerly.94.404)........................................ 0 NONE     

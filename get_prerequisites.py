@@ -9,7 +9,7 @@ import sys
 #classID = raw_input("What class ID? ")
 #url = raw_input("Input: ")
 #print(url)
-#file = open("preRecs", "w")
+#file = open("preRecs.txt", "w")
 #print len(sys.argv)
 #if len(sys.argv) < 3:
 #	print("Error: Not enough arguments!")
@@ -33,7 +33,7 @@ data = r.text
 soup = BeautifulSoup(data, "html.parser")
 
 #print(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
-file.write(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
+#file.write(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
 #print soup.p
 #print soup.p
 #for link in soup.find_all("div", "text"):
