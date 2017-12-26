@@ -1,0 +1,42 @@
+CIVE.1070	2	Introduction to Engineering for Civil and Environmental (Formerly 25.107/14.107)	
+CIVE.2250	3	Surveying I (Formerly 14.225)                                                   	MATH 1320 Calc II or Co-Req MATH 1320 Calc II or Pre-Req MATH 1420 Honors Cal II or Co-Req MATH 1420 Honors Calc II or Pre-Req Calc ABC, and Co-Req CIVE 2860 Prob and Stats for Engineers or Pre-Req CIVE 2860 or 92	
+CIVE.2260	3	Geomatics (Formerly 14.226)                                                     	Pre-Req: CIVE.2250 Surveying I.	
+CIVE.2860	3	Probability and Statistics for Engineers (Formerly 14.286)                      	Pre-Req or Co-Req: MATH 1320 Calculus II.	
+CIVE.3010	3	Fluid Mechanics (Formerly 14.301)                                               	Pre-req: MATH 2310 Calculus III, ENGN 2070/14.205 Dynamics, MATH 2340/2360 Eng.Differential Equations.	
+CIVE.3100	3	Engineering Materials (Formerly 14.310)                                         	Pre-Reqs: CHEM 1220 Chemistry II or CHEM 1360 Honors Chemistry II and 14.204 or ENGN 2060 Strength of Materials.	
+CIVE.3110	1	Engineering Materials Laboratory (Formerly 14.311)                              	
+CIVE.3300	3	Soil Mechanics (Formerly 14.330)                                                	Pre-req: or Co-req: CIVE.3010 Flulid Mechanics, or MECH.3810 Fluid Mechanics, or CHEN.3030 Fluid Mechanics.	
+CIVE.3320	1	Environmental Engineering Laboratory (Formerly 14.332)                          	Co-Req: 14.362 Environmental Engineering.	
+CIVE.3330	1	Geotechnical Laboratory (Formerly 14.333)                                       	Co-Req: 14.330 Soil Mechanics.	
+CIVE.3400	3	Transportation Engineering (Formerly 14.340)                                    	Pre-Reqs: MATH 1320 Calculus II, Pre-Req or Co-Req: CIVE 2860 Prob & Stats for Engineers.	
+CIVE.3410	1	Transportation Engineering Laboratory (Formerly 14.341)                         	
+CIVE.3500	3	Structural Analysis I (Formerly 14.350)                                         	Pre-Req: 14.204 Strength of Materials or 22.212 Strength of Materials.	
+CIVE.3520	3	Reinforced Concrete (Formerly 14.352)                                           	Pre-Req: CIVE 3100 Engineering Materials and CIVE 3500 Structural Analysis l.	
+CIVE.3620	3	Environmental Engineering (Formerly 14.362)                                     	Pre-req: or Co-req: CIVE.3010 Flulid Mechanics, or MECH.3810 Fluid Mechanics, or CHEN.3030 Fluid Mechanics.	
+CIVE.3720	3	Civil Engineering Systems (Formerly 14.372)                                     	Pre-Req: MATH 1320 Calculus II and MATH 2310 Calculus III or Co-Req: MATH 2310 Calculus III, pre-req CIVE 2860.	
+CIVE.4090	3	Environment Engineering Geology (Formerly 14.409)                               	
+CIVE.4310	3	Foundation and Soil Engineering (Formerly 14.431)                               	Pre-Req: 14.330 Soil Mechanics.	
+CIVE.4520	3	Steel Design (Formerly 14.452)                                                  	Pre-Req: 14.350 Structural Analysis l.	
+CIVE.4600	3	Water Resources Engineering (Formerly 14.460)                                   	Pre-Req: 14.301 Fluid Mechanics.	
+CIVE.4660	3	Introduction to LEED (Formerly 14.466)                                          	
+CIVE.4700	3	Engineering Economics (Formerly 14.470)                                         	
+CIVE.4750	3	Construction Management I (Formerly 14.475)                                     	Pre-req: 14.372 C E Systems.	
+CIVE.4800	3	Special Topics in Civil Engineering (Formerly 14.480)                           	
+CIVE.4810	3	Special Topics (Formerly 14.481)                                                	
+CIVE.4830	3	Spec Topics: Civil Engineering (Formerly 14.483)                                	
+CIVE.4850	3	Capstone Design (Formerly 14.485)                                               	Pre-Req: Senior Status.	
+CIVE.4910	12	Industrial Experience I (Formerly 14.491)                                       	Junior level and 2.0 GPA or higher.	
+CIVE.4920	3	Industrial Experience II (Formerly 14.492)                                      	Pre-req or Co-req: 14.491 Industrial Experience I, and Junior level and 2.0 GPA or higher.	
+CIVE.4930	3	Industrial Experience III (Formerly 14.493)                                     	
+ENVE.2010	3	Environmental Engineering Chemistry                                             	Pre-Req: CHEM.1220 Chemistry II.	
+ENVE.3020	1	Fluid Mechanics Laboratory                                                      	Pre-req: MATH.2310 Calculus III, and ENGN.2070 Dynamics, and MATH.2360/2340 Differential Equations, and Co-req: CIVE.3010 Fluid Mechanics.	
+ENVE.3105	2	Material Science for Environmental Engineering                                  	Pre-req: CHEM.1220 Chemistry II, or CHEM.1360 Honors Chemistry II, and ENGN.2070 Dynamics.	
+ENVE.3630	3	Environmental Engineering II                                                    	Pre-req: CIVE.3620 Environmental Engineering I, and ENVE.2010 Environmental Engineering Chemistry.	
+ENVE.3640	3	Energy and the Sustainable Environment                                          	Pre-req: PHYS.1410 Physics I, and CHEM.1220 Chemistry II, and MATH.1320 Calculus II.	
+ENVE.3650	3	Groundwater Hydrogeology and Remediation                                        	Pre-req: BIOL.2100 Biology for Engineers, and CIVE.3010 Fluid Mechanics, and CIVE.3620 Environmental Engineering I.	
+ENVE.3660	3	Biological Processes in Environmental Engineering                               	Pre-req: CIVE.3620 Environmental Engineering I, and BIOL.2100 Biology for Engineers.	
+ENVE.4610	3	Chemical Fate and Transport in the Environment                                  	Pre-req: ENVE.3650 Groundwater Hydrogeology and Remediation.	
+ENVE.4620	3	Air Quality                                                                     	Pre-req:CIVE.3010 Fluid Mechanics, and CIVE.3620 Environmental Engineering I.	
+ENVE.4630	3	Environmental Eng. Ethics and Professional Practice                             	Pre-req: CIVE.3620 Environmental Engineering I.	
+ENVE.4640	3	Solid Waste Engineering and Management                                          	Pre-req: ENVE.3630 Environmental Engineering II, and ENVE,3660 Biological Processes in Environmental Engineering, and CIVE.3720 Civil Engineering Systems.	
+ENVE.4855	3	Capstone Design                                                                 	Pre-Req: Senior Status.	

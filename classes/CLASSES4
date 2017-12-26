@@ -1,0 +1,95 @@
+ATMO.1020	1	Weather Forecasting Seminar (Formerly 85.102)                                   	
+ATMO.1200	3	The Nature of Science (Formerly 85.120)                                         	
+ATMO.1410	3	Weather and Climate (Formerly 85.141)                                           	
+ATMO.1430L	1	Weather and Climate Laboratory (Formerly 85.143)                                	Co-req: 85.141 Weather & Climate.	
+ATMO.2130L	1	Atmospheric Science Laboratory (Formerly 85.213)                                	
+ATMO.2140L	1	Meteorology Analysis Laboratory (Formerly 85.214)                               	
+ATMO.2340	3	Scientific FORTRAN Programming (Formerly 85.234)                                	
+ATMO.2910	3	Practicum in Meteorology (Formerly 85.291)                                      	
+ATMO.3010	3	Atmospheric Thermodynamics (Formerly 85.301)                                    	Pre-Reqs: ENVI 2020 Earth & Env Systems II, PHYS 1030 General Physics I, and MATH 1320 Calculus II.	
+ATMO.3040	3	Methods in Meteorology (Formerly 85.304)                                        	Pre-Reqs: ENVI 2020 Earth & Env Systems II and MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+ATMO.3050	3	Methods in Meteorology II (Formerly 85.305)                                     	Pre-Reqs:  ATMO 3040 Methods in Meteorology I and ATMO 2340 Scientific FORTRAN Programming.	
+ATMO.3080	3	Synoptic Meteorology (Formerly 85.308)                                          	Pre-Reqs: ATMO 1020 Weather Forecasting Seminar and ENVI 2020 Earth & Env Systems II.	
+ATMO.3090	3	Forecasting and Synoptic Techniques II (Formerly 85.309)                        	Pre-Req: 85.308 Forecast & Synop Techniques I.	
+ATMO.3130	3	Physical Climatology (Formerly 85.313)                                          	
+ATMO.3250	3	Weather Communications (Formerly 85.325)                                        	Pre-req: ATMO 2130L Atmospheric Science Lab, and ATMO 2140L Meteorology Analysis Lab.	
+ATMO.3400	3	Tropical Meteorology (Formerly 85.340)                                          	Pre-Req: ENVI.2020 Earth & Env Systems II.	
+ATMO.3500	3	Satellite and Radar Meteorology (Formerly 85.350)                               	Pre-Req: ENVI.2020 Earth & Env Systems II.	
+ATMO.4030	3	Physical Meteorology (Formerly 85.403)                                          	Pre-Req: 85.301 Atmospheric Dynamics.	
+ATMO.4100	3	Advanced Forecasting (Formerly 85.410)                                          	Pre-Req: ENVI.2020 Earth & Env Systems II.	
+ATMO.4120	3	Synoptic Weather Patterns (Formerly 85.412)                                     	Pre-Req: 85.308 Forecast & Synop Techniques I.	
+ATMO.4150	3	Atmospheric Dynamics (Formerly 85.415)                                          	Pre-Reqs: ATMO 3010 Atmospheric Dynamics and MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+ATMO.4160	3	Advanced Atmospheric Dynamics (Formerly 85.416)                                 	Pre-Req: 85.415 Adv Atmospheric Dynamics I.	
+ATMO.4200	3	Introduction to Operational Numerical Weather Prediction (Formerly 85.420)      	Pre-Reqs: ENVI 2020 Earth & Environ Systems II, and ATMO 2340 Scientific FORTRAN Programming.	
+ATMO.4300	3	Atmospheric Diffusion (Formerly 85.430)                                         	
+ATMO.4500	3	Satellite and Radar Meteorology (Formerly 85.450)                               	Pre-Req: ENVI.2020 Earth & Env Systems II.	
+ATMO.4710	3	Air Pollution (Formerly 85.471)                                                 	
+ATMO.4840	3	Space Weather (Formerly 85.484)                                                 	Pre-Reqs: MATH 2310 Calculus III, PHYS 1030 General Physics I, and PHYS 1040 General Physics II.	
+ATMO.4870	3	Cloud Physics (Formerly 85.487)                                                 	Pre-Req: 85.301 Atmospheric Dynamics.	
+ATMO.4910	3	Directed Study (Formerly 85.491)                                                	
+ATMO.4930	3	Internship: Atmospheric Science (Formerly 85.493)                               	
+ATMO.4950	3	Honors Research: Atmospheric Science (Formerly 85.495)                          	
+ATMO.4960	3	Practicum Experience in Meteorology (Formerly 85.496)                           	
+ATMO.4970	3	Research: Atmospheric Science                                                   	
+ENVI.1010	1	Environmental Science Seminar (Formerly 87.101)                                 	
+ENVI.1020	1	Environmental Problems Seminar (Formerly 87.102)                                	
+ENVI.1100	3	Global Environmental Studies                                                    	Co-req: ENVI.1120L Global Environmental Studies Lab.	
+ENVI.1110	3	Sustainable Solutions for People and the Planet                                 	
+ENVI.1120L	1	Global Environmental Studies Lab                                                	Co-req: ENVI.1100 Global Environmental Studies.	
+ENVI.1150	3	Astronomy (Formerly 87.115)                                                     	Co-Req: 87.117 Astronomy Lab; Anti-Req: PHYS.1210 Exploring the Universe.	
+ENVI.1170L	1	Astronomy Lab (Formerly 87.117)                                                 	Co-Req: 87.115 Astronomy.	
+ENVI.1200	1	Principles of Environmental Science                                             	Kennedy College of Science majors only.	
+ENVI.1990L	1	Envi. Science 1000 level elec.                                                  	
+ENVI.2010	3	Earth Systems: Geosphere (Formerly 87.201)                                      	Co-req: ENVI.2030L Earth Systems: Geoscience Lab, and Kennedy College of Science majors only.	
+ENVI.2020	3	Earth Systems: Atmosphere and Oceans (Formerly 87.202)                          	Co-req: ENVI.2040L Earth Systems Atmosphere and Oceans Lab, and Kennedy College of Science majors only.	
+ENVI.2030L	1	Earth Systems: Geosphere Laboratory (Formerly                                   	Co-req: ENVI.2010 Earth Systems: Geoscience, and Kennedy College of Science majors only.	
+ENVI.2040L	1	Earth Systems: Atmosphere and Oceans Laboratory (Formerly 87.204)               	Co-req: ENVI.2020 Earth Systems: Atmosphere and Oceans, and Kennedy College of Science majors only.	
+ENVI.2050	3	Earth Systems: Biosphere and Global Change                                      	Co-req: ENVI.2070L Earth Systems: Biosphere and Global Change Lab, and Kennedy College of Science majors only.	
+ENVI.2070L	1	Earth Systems: Biosphere and Global Change Lab                                  	Co-req: ENVI.2050 Earth Systems: Biosphere and Global Change , and Kennedy College of Science majors only.	
+ENVI.2990L	1	Envi. Science 2000 Level Elective                                               	
+ENVI.3010	3	GIS in Earth and Environmental Sciences (Formerly 87.301)                       	
+ENVI.4100	3	Soil Science                                                                    	Co-req: ENVI.4120L Soil Science Lab, and Pre-req: GEOL.3070 Earth Materials, and CHEM.1220 Chemistry II, and Kennedy College of Science majors only.	
+ENVI.4120L	1	Soil Science Laboratory                                                         	Co-req: ENVI.4100 Soil Science, and Pre-req: GEOL.3070 Earth Materials, and CHEM.1220 Chemistry II, and Kennedy College of Science majors only.	
+ENVI.4150	3	Biogeochemical cycles                                                           	Pre-req: CHEM.1220 Chemistry II, and ENVI.2010 Earth Sys: Geosphere, or ENVI.2050 Earth Systems: Biosphere and Global Change, or BIOL.3150 Principles of Ecology, and Kennedy College of Science majors only.	
+ENVI.4160	3	Climate Change: Science, Communication, and Solutions (Formerly 81.416/BIOL.4160)	Co-req: ENVI.4170L Climate Change: Science, Communication, and Solutions Lab.	
+ENVI.4170L	1	Climate Change: Science, Communication, and Solutions Lab                       	Co-req: ENVI.4160 Climate Change: Science, Communication, and Solutions.	
+ENVI.4930	3	Internship: Environmental Studies (Formerly 87.493)                             	
+ENVI.4950	3	Honors Research: Environmental Studies (Formerly 87.495)                        	
+ENVI.4960	3	Practicum (Formerly 87.496)                                                     	
+ENVI.4970	3	Research: Environmental Studies                                                 	
+GEOL.1010	3	General Geology (Formerly 89.101)                                               	Co-Req: 89.103 General Geology Lab.	
+GEOL.1030L	1	General Geology Laboratory (Formerly 89.103)                                    	Co-Req: 89.101 General Geology.	
+GEOL.1510	3	Earth and Life (Formerly 89.151)                                                	89.153 co-req	
+GEOL.1530L	1	Earth and Life Laboratory (Formerly 89.153)                                     	89.151 co-req	
+GEOL.1980	3	Rocks (Formerly 89.198)                                                         	
+GEOL.1990L	1	Geology Lab 1000 level elective                                                 	
+GEOL.2150	3	Forensic Geology (Formerly 89.215)                                              	
+GEOL.2990L	1	Geology Lab 2000 level elective                                                 	
+GEOL.3010	3	Mineralogy and Crystallography (Formerly 89.301)                                	89.303 co-req	
+GEOL.3030L	1	Mineralogy And Crystallography Laboratory (Formerly 89.303)                     	89.301 co-req	
+GEOL.3040	3	Igneous & Metamorphic Petrology (Formerly 89.304)                               	Co-req: 89.306 Ig & Meta Petrology Lab.	
+GEOL.3060L	1	Igneous and Metamorphic Petrology Laboratory (Formerly 89.306)                  	Co-req: 89.304 Igneous & Metamorphic Petrology.	
+GEOL.3070	3	Earth Materials I (Formerly 89.307)                                             	Co-req: GEOL.3090L Earth Materials I Lab, and Environmental, Earth and Atmospheric Science Majors only.	
+GEOL.3080	3	Earth Materials II (Formerly 89.308)                                            	Pre-req:GEOL.3070 Earth Materials I and GEOL 3090L Earth Materials I Lab and Co-req: GEOL 3100L Earth Materials II Lab, and Environmental, Earth and Atmospheric Science Majors only.	
+GEOL.3090L	1	Earth Materials I Laboratory (Formerly 89.309)                                  	Co-req: 89.307 Earth Materials I.	
+GEOL.3100L	1	Earth Materials II Lab (Formerly 89.310)                                        	Co-req: GEOL.3080 Earth Materials II.	
+GEOL.3140	3	Hydrogeology (Formerly 89.314)                                                  	
+GEOL.3150	4	Environmental Geochemistry (Formerly 89.315)                                    	Pre-req: CHEM.1210 Chemistry I, and CHEM.1230L Chemistry I Lab.	
+GEOL.3160	3	Geomorphology (Formerly 89.316)                                                 	89.316 co-req	
+GEOL.3180L	1	Geomorphology Laboratory (Formerly 89.318)                                      	89.316 co-req	
+GEOL.3190	3	Earth Surface Processes (Formerly 89.319)                                       	Co-req: GEOL.3210L Earth Surface Processes Lab, and Environmental, Earth and Atmospheric Science Majors only.	
+GEOL.3210L	1	Earth Surface Processes Laboratory (Formerly 89.321)                            	Co-req: 89.319 Earth Surface Processes.	
+GEOL.3220	3	Structural Geology (Formerly 89.322)                                            	Co-req: Structural Geology Laboratory.	
+GEOL.3240L	1	Structural Geology Laboratory (Formerly 89.324)                                 	Co-Req: 89.322 Structural Geology.	
+GEOL.3250	3	Geology for Engineers (Formerly 89.325)                                         	Pre-req: CHEM 1210 Chemistry l, CHEM 1230L Chemistry l Lab, PHYS 1410 Physics l, and PHYS 1410L Physics l Lab.	
+GEOL.3310	3	Earth History (Formerly 89.331)                                                 	Co-req: GEOL.3330L Earth History Laboratory, and Environmental, Earth and Atmospheric Science Majors only.	
+GEOL.3330L	1	Earth History Laboratory (Formerly 89.333)                                      	Co-req: 89.331 Earth History.	
+GEOL.3410	3	Environmental and Engineering Geology (Formerly 89.341/541)                     	
+GEOL.3520	3	Sedimentation And Stratigraphy (Formerly 89.352)                                	89.354 co-req	
+GEOL.3540L	1	Sedimentation And Stratigraphy Laboratory (Formerly 89.354)                     	89.352 co-req	
+GEOL.4560	3	Applied Geophysics (Formerly 89.456)                                            	
+GEOL.4910	3	Directed Study: Geoscience (Formerly 89.491)                                    	
+GEOL.4930	3	Internship: Environmental Geoscience (Formerly 89.493)                          	
+GEOL.4950	3	Honors Research: Geoscience (Formerly 89.495)                                   	
+GEOL.4970	3	Research: Geoscience                                                            	
+GEOL.5CO-OP	1	Curricular Practical Training (Formerly 89.5CO-OP)                              	

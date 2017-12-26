@@ -1,0 +1,69 @@
+MATH.1020	1	Freshman Seminar in Mathematics (Formerly 92.102)                               	Pre-req: Math Majors Only.	
+MATH.1070	3	Elementary Math for Teaching: Numbers and Operations (Formerly 92.107)          	Pre-req: Elementary Education Minors and BLA-Education Concentration majors only.	
+MATH.1080	3	Elementary Math for Teaching: Algebra and Data Analysis                         	Pre-req: Elementary Education Minors and BLA-Education Concentration majors only.	
+MATH.1110	3	Quantitative Reasoning (Formerly 92.111)                                        	
+MATH.1110SI	2	SI for Quantitative Reasoning & Introduction to Statistics (Formerly 92.111SI/92.2830SI)	Co-Req: 92.111 Quantitative Reasoning.	
+MATH.1115	3	Fundamentals of Algebra (Formerly 90.111)                                       	
+MATH.1210	3	Management Precalculus (Formerly 92.121)                                        	
+MATH.1210SI	1	Management Pre-Calculus Supplemental Instruction (Formerly 92.121SI)            	Co-Req: MATH.1210 Management Pre-Calculus	
+MATH.1220	3	Management Calculus (Formerly 92.122)                                           	Pre-req: MATH.1200 Precalculus Mathematics I, or MATH.1210 Management Precalculus, or MATH.1270 Preparation for Calculus.	
+MATH.1220SI	1	Management Calculus Supplemental Instruction (Formerly 92.122SI)                	Co-Req: MATH.1220 Management Calculus.	
+MATH.1280	4	Calculus IA (Formerly 92.128)                                                   	
+MATH.1280SI	1	Calculus IA Supplemental Instruction (Formerly 92.128SI)                        	
+MATH.1290	4	Calculus IB (Formerly 92.129)                                                   	Pre-Req: MATH 1280 Calculus IA, or CA1A student group waiver or a grade of CR in NONC CALC1A.	
+MATH.1290SI	1	Calculus IB Supplemental Instruction (Formerly 92.129SI)                        	
+MATH.1310	4	Calculus I (Formerly 92.131)                                                    	
+MATH.1320	4	Calculus II (Formerly 92.132)                                                   	Pre-Req: MATH 1290 Calculus IB, MATH 1310 Calculus I, or a grade of CR in NONC CALC1.	
+MATH.1380	4	Calculus for the Life Sciences I (Formerly 92.138)                              	
+MATH.1390	4	Calculus for the Life Sciences II (Formerly 92.139)                             	Pre-req: MATH.1380 Calculus for the Life Sciences I.	
+MATH.1410	4	Honors Calculus I (Formerly 92.141)                                             	
+MATH.1420	4	Honors Calculus II (Formerly 92.142)                                            	Pre-req: MATH.1410 Honors Calculus I, or permission of Instructor.	
+MATH.1510	3	Explorations in Mathematics (Formerly 92.151)                                   	
+MATH.2100	3	Functions and Modeling (Formerly 92.210)                                        	Co-Req: MATH 1320	
+MATH.2210	3	Linear Algebra I (Formerly 92.221)                                              	Pre-Req: MATH 1320 Calculus II.	
+MATH.2220	3	Linear Algebra II (Formerly 92.222)                                             	Pre-Req: MATH.2210 Linear Algebra I.	
+MATH.2270	3	Elementary Math for Teaching: Geometry and Measurement (Formerly 92.227)        	Pre-req: Elementary Education Minors and BLA-Education Concentration majors only.	
+MATH.2310	4	Calculus III (Formerly 92.231)                                                  	Pre-Req: MATH 1320 Calculus II.	
+MATH.2320L	1	Math Lab I (Formerly 92.232)                                                    	Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.2340	3	Differential Equations (Formerly 92.234)                                        	Pre-Req: MATH 1320 Calculus II.	
+MATH.2360	3	Engineering Differential Equations (Formerly 92.236)                            	Pre-Req: MATH 1320 Calculus II.	
+MATH.2410	4	Honors Calculus III (Formerly 92.241)                                           	Pre-Req: MATH.1420 Honors Calculus II or permission of instructor	
+MATH.2440	3	Honors Differential Equations (Formerly 92.244)                                 	Pre-Req:  MATH 1320 Calculus II.	
+MATH.2720	3	Introduction to Programming with MATLAB (Formerly 92.272)                       	Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences.	
+MATH.2830	3	Introduction to Statistics (Formerly 92.283)                                    	
+MATH.2830SI	2	SI for Quantitative Reasoning & Introduction to Statistics (Formerly 92.111SI/92.2830SI)	
+MATH.3010	3	Introduction to Applied Mathematics I (Formerly 92.301)                         	Pre-Reqs: MATH 2310 Calculus III  & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.3020	3	Introduction to Applied Mathematics II (Formerly 92.302)                        	Pre-Reqs: MATH 2310 Calculus III  & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.3210	3	Discrete Structures I (Formerly 92.321)                                         	Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences.	
+MATH.3220	3	Discrete Structures II (Formerly 92.322)                                        	Pre-Req: MATH.3210 Discrete Structures I.	
+MATH.3300	3	Symbolic Logic (Formerly 92.330)                                                	Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences.	
+MATH.3600	3	Mathematic Structure for Computer Engineers (Formerly 92.360)                   	Pre-Req: MATH 2310 Calculus III.	
+MATH.3620	3	Numerical Analysis I (Formerly 92.362)                                          	Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.3630	3	Intro to Data Analysis (Formerly 92.363)                                        	
+MATH.3750	1	Senior Seminar I (Formerly 92.375)                                              	
+MATH.3810	3	Mathematical Physics (Formerly 92.381)                                          	Pre-req: MATH.2310 Calculus III, and MATH.2340 Differential Equations, or MATH.2360 Engineering Differential Equations, and PHYS.1440 Physics II, or PHYS.1640 Honors Physics II.	
+MATH.3850	3	Applied Statistics (Formerly 92.385)                                            	Pre-Req: MATH 1320 Calculus II.	
+MATH.3860	3	Probability and Statistics I (Formerly 92.386)                                  	Pre-Req: MATH 1320 Calculus II.	
+MATH.4030	3	Mathematical Analysis (Formerly 92.403)                                         	Pre-req: MATH 1320 Calculus II and MATH 3210 Discrete Structures I.	
+MATH.4070	3	Probability and Mathematical Statistics I (Formerly 92.407)                     	Pre-req: MATH 2310 Calculus III, or MATH 2260 Calculus D, and MATH 3210 Discrete Structures I.	
+MATH.4100	3	Computers and Calculators in the Classroom (Formerly 92.410)                    	
+MATH.4110	3	Complex Variables I (Formerly 92.411/511)                                       	Pre-Req: MATH 2310 Calculus III.	
+MATH.4130	3	Number Theory (Formerly 92.413)                                                 	Pre-Req: MATH 2210 Linear Algebra I or MATH 3210 Discrete Structures I.	
+MATH.4190	3	Mathematica                                                                     	
+MATH.4200	3	Mathematical Problem Solving 
+(Formerly 92.420/520)                             	Pre-Req: MATH 2210 Linear Algebra I or MATH 3210 Discrete Structures I.	
+MATH.4210	3	Abstract Algebra I (Formerly 92.421/521)                                        	Pre-Req: MATH.2210 Linear Algebra I.	
+MATH.4260	3	Topology (Formerly 92.426/526)                                                  	Pre-req: MATH 4030 Mathematical Analysis or MATH 5010 Real Analysis	
+MATH.4270	3	Geometry (Formerly 92.427/527)                                                  	Pre-Req: MATH 1320 Calculus II.	
+MATH.4350	3	History of Mathematics (Formerly 92.435/535)                                    	
+MATH.4450	3	Partial Differential Equations (Formerly 92.445)                                	Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.4480	3	Mathematics of Signal Processing (Formerly 92.448)                              	Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.4500	3	Mathematical Modeling (Formerly 92.450)                                         	Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+MATH.4660	3	Stat Program Using SAS (Formerly 92.466)                                        	
+MATH.4750	3	Senior Seminar II (Formerly 92.475)                                             	Pre-Req: MATH.3750 or MATH.4740 Senior Seminar I.	
+MATH.4760	3	Senior Seminar III (Formerly 92.476)                                            	Pre-Req: MATH.4750 Senior Seminar II.	
+MATH.4860	3	Probability and Math Statistics II (Formerly 92.486)                            	Pre-req: MATH.4070 Probability and Mathematical Statistics I.	
+MATH.4900	3	Selected Topics (Formerly 92.490)                                               	
+MATH.4910	3	Directed Study in Algebra (Formerly 92.491)                                     	
+MATH.4940	3	Directed Study in Statistics (Formerly 92.494)                                  	
+MATH.4960	3	Mathematics Practicum (Formerly 92.496)                                         	

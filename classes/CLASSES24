@@ -1,0 +1,61 @@
+BMSC.1010	1	Biomedical Sciences Freshman Seminar                                            	
+BMSC.3100	3	Introduction to Laboratory Research                                             	Junior Level or Higher or Permission of Instructor.	
+BMSC.3220	2	Clinical Molecular and Cell Biology I                                           	Pre-req: HSCI.3500 Human Biochemistry, and Co-req: BMSC.3240 Clinical Molecular and Cell Biology Laboratory I.	
+BMSC.3240	2	Clinical Molecular and Cell Biology Laboratory I                                	Pre-req: HCSI.3500 Human Biochemistry, and Co-req: BMSC.3220 Clinical Molecular and Cell Biology I.	
+BMSC.3420	3	Organic Structures and Reactions II                                             	Pre-req: BMSC.2420 Organic Structures and Reactions I, and BMSC.2440 Organic Structures and Reactions Laboratory I, and Co-req: BMSC.3440 Organic Structures and Reactions Laboratory II.	
+BMSC.3440	1	Organic Structures and Reactions Laboratory II                                  	Pre-req: BMSC.2420 Organic Structures and Reactions I, and BMSC.2440 Organic Structures and Reactions Laboratory I, and Co-req: BMSC.3420 Organic Structures and Reactions II.	
+BMSC.3700	2	Biomedical Sciences Junior Seminar                                              	Pre-req: Junior Level, Clinical Lab Science Major.	
+BMSC.4110	3	OMICS: Essentials and Applications                                              	Pre-req: BMSC.3220 Clinical Molecular and Cell Biology I, and BMSC.3240 Clinical Molecular and Cell Biology Lab I.	
+BMSC.4120	2	Clinical Molecular and Cell Biology II                                          	Pre-req: BMSC.3220 Clinical Molecular and Cell Biology I, and BMSC.3240 Clinical Molecular and Cell Biology Lab I, and Co-req: BMSC.4140 Clinical Molecular and Cell Biology Lab II.	
+BMSC.4140	2	Clinical Molecular and Cell Biology Laboratory II                               	Pre-req: BMSC.3220 Clinical Molecular and Cell Biology I, and BMSC.3240 Clinical Molecular and Cell Biology Lab I, and Co-req: BMSC.4120 Clinical Molecular and Cell Biology II.	
+BMSC.4900	3	Advanced Biomedical Laboratory Techniques                                       	Pre-req: BMSC.4120 Clinical Mol. & Cell Biol. II, and BMSC.4140 Clinical Mol. & Cell Biol. Lab II, and Senior in Clinical Lab Sciences or Permission of instructor.	
+MLSC.2410	3	Clinical Laboratory Theory (Formerly 36.241)                                    	Academic Plan Clinical Lab Sciences (BS) Only.	
+MLSC.2430	1	Clinical Laboratory Theory Lab (Formerly 36.243)                                	Co-Req: MLSC.2410 Clinical  Lab Theory & Physics; Clinical Lab Sciences (BS) only.	
+MLSC.2730	2	Introduction to Clinical Laboratory Science (Formerly 36.273)                   	
+MLSC.3110	3	Medical Bacteriology I (Formerly 36.311/512)                                    	Pre-req: HSCI 2110 Bas Cl Micro & Pathology, HSCI 2130 Bas Cl Micro & Path Lab.	
+MLSC.3130	2	Medical Bacteriology Laboratory I (Formerly 36.313)                             	Pre-req: HSCI 2110, HSCI 2130; and Co-req: MLSC 3110 Medical Bacteriology, and Clinical Lab Sciences (BS).	
+MLSC.3210	3	Clinical Hematology (Formerly 36.321)                                           	Pre-req: MLSC 2410 Clinical Lab Theory, and MLSC 2430 Clinical Lab Theory Lab, and Clinical Lab Sciences (BS).	
+MLSC.3230	2	Clinical Hematology Laboratory (Formerly 36.323)                                	Co-Req: 36.321 Clinical Hematology; CLS Medical Laboratory Science sub-plan student only.	
+MLSC.3310	3	Clinical Immunology (Formerly 36.331)                                           	Pre-Req: 36.360 Human Biochemistry.	
+MLSC.3510	3	Clinical Chemistry I (Formerly 36.351)                                          	Pre-req: MLSC 3410, HSCI 3500, MLSC 3610; Clinical Lab Sciences (BS) or Nutritional Sciences (BS).	
+MLSC.3530	2	Clinical Chemistry Laboratory  I (Formerly 36.353)                              	Co-req: MLSC.3510 Clinical Chemistry I, and Clinical Lab Sciences (BS).	
+MLSC.3610	3	Clinical  Laboratory  Instrumentation (Formerly 36.361)                         	Pre-Req: HSCI 2520 Physiological Chem II; Co-Req: Clinical Lab Inst Lab;  Clinical Lab Sciences (BS) or Nutritional Sciences (BS).	
+MLSC.3630	2	Clinical Laboratory Instrumentation Laboratory (Formerly 36.363)                	Co-Req: MLSC.3610 Clin Lab Instrumentation; Clinical Lab Sciences (BS) or Nutritonal Sciences (BS).	
+MLSC.3730	1	Clinical Laboratory Sciences Seminar (Formerly 36.373)                          	Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.	
+MLSC.4100	2	Clinical Microbiology Practicum (Formerly 36.410)                               	Pre-req: MLSC 3110/512 Medical Bacteriology, and MLSC 3130 Medical Bacteriology Lab, and Clinical Lab Sciences (BS), or Medical Laboratory Science option.	
+MLSC.4110	3	Medical Mycology & Parasitology (Formerly 36.411)                               	Pre-Req: MLSC 3110 & 313 Medical Bacteriology w/lab;  Co-Req: MLSC 4130 Med Mycology & Para Lab.	
+MLSC.4130	2	Medical  Mycology & Parasitology Laboratory (Formerly 36.413)                   	Co-Req: MLSC 4110 Med Mycology & Para or MLSC 6150 Medical Parasitology; Clinical Lab Sciences (BS).	
+MLSC.4150	2	Clinical Virology/Serology Lab (Formerly 36.415)                                	Pre-Req: MLSC.3310 Clinical Immunology;  Clinical Lab Sciences (BS).	
+MLSC.4160	1	Molecular Diagnostics Lab (Formerly 36.416)                                     	Academic Plan Clinical Lab Sciences (BS) Only.	
+MLSC.4200	2	Clinical Hematology Practicum (Formerly 36.420)                                 	Pre-req: MLSC 3210 Clinical Hematology, and MLSC 3230 Clinical Hematology Lab, and Clinical Lab Sciences (BS) or Medical Lab Science option.	
+MLSC.4300	2	Clinical  Immunohematology  Practicum (Formerly 36.430)                         	Pre-req: MLSC 4310/531 Clinical Immunohematology, and MLSC 4330 Clinical Immunohematology Lab, and Clinical Lab Sciences (BS) or Medical Lab Science option.	
+MLSC.4310	3	Clinical Immunohematology (Formerly 36.431)                                     	Pre-Reqs:  MLSC 3210 Clinical Hematology, and MLSC 3310 Clinical Immunology;  CLS majors only.	
+MLSC.4330	2	Clinical Immunohematology Laboratory (Formerly 36.433)                          	Co-Req: MLSC 4310 Cl Immunohematology or MLSC 5310 Clinical Immunohmatology;  Clinical Lab Sciences (BS).	
+MLSC.4340	1	Advanced Topics in Hemostasis (Formerly 36.434)                                 	Pre-req: 36.241 Clinical Lab Theory, and Clinical Lab Sciences (BS).	
+MLSC.4500	2	Clinical Chemistry Practicum (Formerly 36.450)                                  	Pre-req: MLSC 4520 Clinical Chemistry II and MLSC 4540 Clinical Chemistry II Lab, and Clinical Lab Sciences (BS), or Medical Lab Science option.	
+MLSC.4510	0	Urinalysis Practicum (Formerly 36.451)                                          	Co-Req: MLSC 4540 Clinical Chemistry Lab II, MLSC 4520 Clinical Chemistry II; Clinical Lab Sciences (BS).	
+MLSC.4520	3	Clinical Chemistry II (Formerly 36.452)                                         	Pre-Req: 36.351 Clinical Chemistry I.	
+MLSC.4530	2	Laboratory Management and Ethics (Formerly 36.453)                              	Academic Plan Clinical Lab Sciences (BS) Only.	
+MLSC.4540	2	Clinical Chemistry Laboratory II (Formerly 36.454)                              	Co-Req: 36.452 Clinical Chemistry II;  Clinical Lab Sciences (BS).	
+MLSC.4740	1	Senior Seminar (Formerly 36.474)                                                	Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.	
+MLSC.4830	3	Senior Research I (Formerly 36.483)                                             	Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.	
+MLSC.4840	3	Senior Research II (Formerly 36.484)                                            	Pre-req: MLSC.4830 Senior Research l.	
+MLSC.4930	3	Clinical Laboratory Sciences Directed Studies (Formerly 36.493)                 	Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.	
+NUTR.2010	3	Food Science with Lab                                                           	Pre-Req: Nutritional Sciences majors only. Permission number required.	
+NUTR.2050	3	Introduction to Nutritional Science(Formerly 35.205)                            	Pre-Req: Nutritional Sciences majors only. Permission number required.	
+NUTR.2060	3	Human Nutrition(Formerly 35.206)                                                	
+NUTR.2100	3	Nutrition and Health(Formerly 35.210)                                           	Anti-Req: Course is not for College of Health Science Majors.	
+NUTR.3360	3	Life Cycle Nutrition (Formerly 36.336)                                          	Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.	
+NUTR.3450	3	Community Nutrition (Formerly 36.345)                                           	Pre-Reqs: NUTR 2050 Intro to Nutritional Science and  NUTR 2060 Human Nutrition, and Nutritional Science (BS) only.	
+NUTR.3700	3	Introduction to Food Safety                                                     	Pre-req: BS in Nutritional Science (Major or Minor), or (MPH in Dietetics or Nutrition).	
+NUTR.3710	3	Nutrition and Metabolism(Formerly 36.371)                                       	Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.	
+NUTR.3720	3	Obesity & Weight Control(Formerly 36.372)                                       	Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.	
+NUTR.4060	3	Biochemistry of Lipids(Formerly 36.406)                                         	Pre-Reqs: NUTR 2060 Human Nutrition, HSCI 3500 Human Biochemistry.	
+NUTR.4630	3	Vitamins and Minerals(Formerly 36.463)                                          	Pre-Reqs: NUTR 2060 Human Nutrition, HSCI 3500 Human Biochemistry.	
+NUTR.4650	3	Lab Methods in Nutrition Assessment (Formerly 36.465/565)                       	Pre-Req: 36.361 Clin Lab Instrumentation; Nutritional Science (BS) or Clinical Lab Sciences (BS) only.	
+NUTR.4720	3	Nutrition and Gene Expression(Formerly 36.472)                                  	Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.	
+NUTR.4810	3	Medical Nutrition Therapy I(Formerly 36.481)                                    	Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.	
+NUTR.4820	3	Medical Nutrition Therapy II(Formerly 36.482)                                   	Pre-req: 36.481 Medical Nutrition Therapy I	
+NUTR.4830	1	Senior Research in Nutrition I                                                  	Pre-req: Senior Status, Nutrition Science Majors only.	
+NUTR.4940	3	Directed Research in Nutrition(Formerly 36.494)                                 	Academic Sub-Plan Nutrition only.	
+NUTR.4960	3	Senior Research in Nutrition(Formerly 36.496)                                   	

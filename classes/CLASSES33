@@ -1,0 +1,81 @@
+PHYS.1010	3	Introductory Physics (Formerly 95.101)                                          	Co-Req:PHYS.1010L General Exp Physics; Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.	
+PHYS.1010L	1	Introductory Experimental Physics (Formerly 96.101)                             	Co-Req: 95.101 Introductory Physics.	
+PHYS.1030	3	General Physics I (Formerly 95.103)                                             	Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.	
+PHYS.1030L	1	General Physics I Lab (Formerly 96.103)                                         	PreReq or Co-Req: 95.103 General Physics I.	
+PHYS.1040	3	General Physics II (Formerly 95.104)                                            	Pre-req: PHYS 1030 General Physics I  with a 'C-' or better; and Co-req: or Pre-req: PHYS 1040L Physics ll Lab; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.	
+PHYS.1040L	1	General Physics II Lab (Formerly 96.104)                                        	Co-Req or Pre-Req: PHYS.1040 General Physics II.	
+PHYS.1050L	3	Sounds of Music (Formerly 96.105)                                               	
+PHYS.1110	1	Undeclared Science Seminar (Formerly 95.111)                                    	
+PHYS.1120	1	Freshman Physics Seminar (Formerly 95.112)                                      	
+PHYS.1210	3	Exploring the Universe (Formerly 95.121)                                        	Co-Req: PHYS.1210 Lab for Exploring the Universe; Anti-Req: ENVI.1150 Astronomy.	
+PHYS.1210L	1	Exploring the Universe Laboratory (Formerly 96.121)                             	Co-Req or Pre-Req: PHYS.1210 Exploring the Universe.	
+PHYS.1310	3	Technical Physics I (Formerly 99.131)                                           	
+PHYS.1320	3	Technical Physics II (Formerly 99.132)                                          	Pre-Req: PHYS.2450 Technical Physics I with a 'C-' or higher.	
+PHYS.1410	3	Physics I (Formerly 95.141)                                                     	Co-Req: PHYS.1410L Physics I Lab. Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.	
+PHYS.1410L	1	Physics I Lab (Formerly 96.141)                                                 	Co-Req: PHYS 1410 Physics I.	
+PHYS.1410SI	1	Supplemental Instruction for Physics I - Navitas Only (Formerly 95.141SI)       	Co-Req: PHYS.1410L Physics I Lab. Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.	
+PHYS.1440	3	Physics II (Formerly 95.144)                                                    	Pre-Req: PHYS 1410 Physics I with a 'C-' or better;  Pre/Co-Req: MATH 1320 Calculus II; and Pre/Co-Req: PHYS 1440L Physics II Lab; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.	
+PHYS.1440L	1	Physics II Lab (Formerly 96.144)                                                	Pre-Req: PHYS 1410L Physics I Lab with a 'C-' or better;  Co-Req: PHYS 1440 Physics II.	
+PHYS.1610	4	Honors Physics I (Formerly 95.161)                                              	Co-Reqs: MATH 1310 Calculus I  and PHYS 1610L Honors Physics  I Lab; Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.	
+PHYS.1610L	2	Honors Physics I Laboratory (Formerly 96.161)                                   	Co-Req: 95.161 Honors Physics I.	
+PHYS.1640	4	Honors Physics II (Formerly 95.164)                                             	Pre-Req: PHYS 1610 Honors Physics I with a 'C-' or better; Co-Req: MATH 1320 Calculus II  and PHYS 1640L Honors Physics Lab II; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.	
+PHYS.1640L	2	Honors Physics Lab II (Formerly 96.164)                                         	Co-Req: PHYS.1640 Honors Physics II.	
+PHYS.2010L	3	Health Physics Internship I (Formerly 96.201)                                   	
+PHYS.2040	3	Introduction to Radiological Sciences (Formerly 95.204)                         	
+PHYS.2100	3	Introductory Modern Physics (Formerly 95.210)                                   	Pre-Req: PHYS 1440 Physics II with a 'C-' or better.	
+PHYS.2450	3	Physical Properties of Matter (Formerly 95.245)                                 	Pre-Req or Co-Req: MATH 1320 Calculus II  and  PHYS 2450L Physics III Lab; Pre-Req: PHYS 1410 Physics I with a 'C-' or better.	
+PHYS.2450L	1	Physics III Lab (Formerly 96.245)                                               	Co-Req: PHYS.2450 Physical Properties of Matter.	
+PHYS.2610L	3	The Physics of Materials and Devices (Formerly 96.261)                          	Pre-Req: PHYS 1440 Physics II with a 'C-' or higher;  Co-Req: PHYS 2690 Honors Physics III.	
+PHYS.2620L	3	Principles in Laboratory Automation (Formerly 96.262)                           	
+PHYS.2690	4	Honors Physics III (Formerly 95.269)                                            	Pre-Req: PHYS 1440 Physics II with a 'C-' or better;  Co-Req: PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab.	
+PHYS.3010L	3	Health Physics Internship II (Formerly 96.301)                                  	
+PHYS.3020L	3	Health Physics Internship II (Formerly 96.302)                                  	
+PHYS.3040	3	Vibration and Sound (Formerly 95.304)                                           	Pre-req: PHYS 2690 Honors Physics III, MATH 2310 Calculus III, PHYS 2610L Physics of Materials and Devices, or PHYS 2450L Physics III Lab with a 'C-' or better; and Co-req: PHYS 3040 Vibration and Sound Lab.	
+PHYS.3040L	1	Vibration and Sound Lab (Formerly 96.304)                                       	
+PHYS.3080	3	Physics with Computers I (Formerly 95.308)                                      	
+PHYS.3160	3	Science and Technology in an Impoverished World (Formerly 95.316)               	
+PHYS.3380	3	Optics and Waves (Formerly 95.338)                                              	Pre-Req: PHYS 1440 Physics II with a 'C-' or better.	
+PHYS.3530	3	Electromagnetism I (Formerly 95.353/553)                                        	Pre-req: MATH 2310 Calculus III and PHYS 1440 Physics II with a 'C-' or better.	
+PHYS.3540	3	Electromagnetism II (Formerly 95.354.554)                                       	Pre-Req: 95.553 Electromagnetism I with a 'C' or better.	
+PHYS.3730	3	Advanced Theory of Solids (Formerly 95.373)                                     	
+PHYS.3810	3	Mathematical Physics I (Formerly 95.381)                                        	Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Diff Equations with a 'C-' or better; 4 semesters of calculus-based Physics with a 'C-' or better.	
+PHYS.3820	3	Mathematical Physics II (Formerly 95.382)                                       	Pre-Req: 95.381 Mathematical Physics I with a 'C-' or better.	
+PHYS.3830	3	Astronomy and Astrophysics I (Formerly 95.383)                                  	
+PHYS.3850	3	MCNP for Radiological Sciences (Formerly 95.385)                                	Pre-Req: 95.210 Introductory Modern Physics with a 'C-' or better.	
+PHYS.3930L	2	Advanced Experimental  Physics Laboratory  I (Formerly 96.393)                  	Pre-req: PHYS.2610L The Physics of Materials & Devices, or  PHYS.2450L Physics II lab, with a grade of C- or better and PHYS.2620L Principles of Laboratory Automation with a grade of C- or better.	
+PHYS.3940L	2	Advanced Physics Lab II (Formerly 96.393)                                       	Pre-Req: 96.393 Adv Exp Physics Lab I with a 'C-' or higher.	
+PHYS.4010	4	Radiation Safety and Control I (Formerly 95.401)                                	
+PHYS.4020L	4	Radiation Safety and Control II (Formerly 95.420/98.502)                        	
+PHYS.4060	3	Nuclear Instrumentation (Formerly 96.406)                                       	Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab	
+PHYS.4090	3	Nuclear Instrumentation (Formerly 96.409)                                       	Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab	
+PHYS.4110	1	Physics Perspectives (Formerly 95.411)                                          	
+PHYS.4110L	3	Senior Research In Radiological Sciences (Formerly 96.411)                      	Senior status, and Community Health(BS).	
+PHYS.4130	3	Mechanics (Formerly 95.413/513)                                                 	Pre-req: MATH.2340 Differential Equations, and PHYS.1410 Physics I with a C- or better, or PHYS.1610 Honors Physics I with a C- or better.	
+PHYS.4170	3	Space Science Mission Design (Formerly 95.417/517)                              	
+PHYS.4210	3	Statistical Thermodynamics (Formerly 95.421/521)                                	Pre-Req: 95.435 Intro Quantum Mechanics I with a 'C-' or better.	
+PHYS.4240	3	Environmental Health Physics (Formerly 98.524 & 94.424)                         	
+PHYS.4350	3	Introductory Quantum Mechanics I (Formerly 95.435/535)                          	Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations and PHYS 2100 Introductory Modern Physicswith a 'C-' or better.	
+PHYS.4360	3	Introductory Quantum Mechanics II (Formerly 95.436)                             	Pre-Req: 95.435 Intro Quantum Mechanics I with a 'C-' or better.	
+PHYS.4390	3	Electro-Optics (Formerly 95.439/539)                                            	Pre-Reqs: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations and PHYS 3380 Optics & Waves with a 'C-' or better.	
+PHYS.4400	4	Image Processing (Formerly 95.440)                                              	Pre-Reqs: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations and PHYS 3380 Optics & Waves with a 'C-' or better.	
+PHYS.4410	3	Radiochemistry (Formerly 95.441)                                                	
+PHYS.4450L	2	Characterization of Materials (Formerly 96.445/545)                             	Pre-Req: 96.394 Advanced  Physics Lab II with a 'C-' or higher.	
+PHYS.4470	3	Laser Physics and Applications (Formerly 95.447/547)                            	Pre-Req: 95.310 Quantum Physics with a 'C-' or better.	
+PHYS.4530L	3	Health Physics Capstone (Formerly 95.453)                                       	Pre-Req: Senior Status.	
+PHYS.4531L	3	Optics Project (Formerly 96.453)                                                	
+PHYS.4540	3	Physics Capstone (Formerly 95.454)                                              	
+PHYS.4560	3	Radiative Processes in Astrophysics (Formerly 95.456/556)                       	Pre-req: PHYS 3530 Electromagnetism I.	
+PHYS.4610	3	Nuclear Physics I (Formerly 95.461/561)                                         	Pre-Req: 95.210 Introductory Modern Physics	
+PHYS.4620	3	Radiation Biology (Formerly 95.462)                                             	Pre-Req: 95.210 Introductory Modern Physics with a 'C-' or better.	
+PHYS.4630	3	Computational Methods in Physics                                                	Pre-req: MATH.2310 Calculus III, and MATH.2340 Differential Equations, and MATH.3810 Math Physics I, and MECH.3610 Math Methods ME.	
+PHYS.4640	3	Particle Astrophysics (Formerly 95.464/564)                                     	Pre-req: PHYS 4350 Intro Quantum Mechanics I, and PHYS 4210 Statistical Mechanics.	
+PHYS.4650	3	Physics of Radiation Oncology (Formerly 95.465)                                 	Pre-Req or Co-Req: 95.401 or 98.501 Rad Safety & Control I.	
+PHYS.4670L	3	Automation Techniques (Formerly 96.467)                                         	
+PHYS.4690	3	Plasma Physics                                                                  	Pre-req: MATH.3210 Calculus III, and MATH.2340 Differential Equations, and PHYS.3530 Electromagnetism I, and EECE.3600 Engineering Electromagnetics I.	
+PHYS.4720	3	Solid State Physics (Formerly 95.472/572)                                       	Pre-Req: 95.421 Statistical Thermodynamics and 95.310 Quantum Physics with a 'C-' or better.	
+PHYS.4770	3	Solid State Electronic and Optoelectronic Devices (Formerly 95.477/577)         	
+PHYS.4810	3	Mathematical Methods of Radiological Sciences (Formerly 95.481)                 	
+PHYS.4820	3	Numerical Methods of Radiological Sciences (Formerly 95.482)                    	Pre-Req: 95.481 Math Methods of Rad Sci with a 'C-' or better.	
+PHYS.4950L	3	Special Research Problems I (Formerly 96.495)                                   	
+PHYS.4960L	3	Special Research Problems II (Formerly 96.496)                                  	
+PHYS.4970L	3	Senior Thesis in Physics (Formerly 96.497)                                      	

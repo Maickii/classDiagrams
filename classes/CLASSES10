@@ -1,0 +1,72 @@
+EECE.1000	1	Introduction to Electrical and Computer Engineering (Formerly 16.100)           	
+EECE.1070	2	Introduction to Electrical and Computer Engineering  (Formerly 25/16.107)       	
+EECE.1CO-OP	1	Curricula Practical Training                                                    	
+EECE.2010	3	Circuit Theory I (Formerly 16.201)                                              	Pre-req: MATH 1320 Calculus ll, and ENGN/EECE 1070/1080  Introduction to Engineering l, and Co-req: EECE 2070 Basic Electrical Engineering Lab l, Grade of C or better in MATH 1320.	
+EECE.2020	3	Circuit Theory II (Formerly 16.202)                                             	Pre-Req: C- or better in EECE 2010 Circuit Theory I; Co-Req: EECE 2080 Basic EE Lab II.	
+EECE.2070	2	Basic Electrical Engineering Laboratory I (Formerly 16.207)                     	Co-Req: EECE.2010 Circuit Theory I.	
+EECE.2080	2	Basic Electrical Engineering Lab II (Formerly 16.208)                           	Pre-Req: EECE 2070 Basic EE Lab I; Co-Req: EECE 2020 Circuit Theory II.	
+EECE.2110	3	Fundamentals of Electricity I (Formerly 16.211/213)                             	Pre-Req: MATH 1320 Calculus II with a grade of  'C' or better.	
+EECE.2120	1	Fundamentals of Electricity Laboratory (Formerly 16.212)                        	Co-Req: EECE 2110 Fund of Electricity;  Pre-Req: PHYS 1410 Physics I.	
+EECE.2140	3	Fundamentals of Sound Recording (Formerly 16.214)                               	Sound Recording Technology majors;  Pre-Req: MATH 1320 Calculus II.	
+EECE.2160	3	ECE Application Programming (Formerly 16.216)                                   	
+EECE.2330	3	History of Radio (Formerly 16.233)                                              	
+EECE.2460	3	Introduction to Data Communication Networks                                     	Pre-req: EECE.1070 Introduction to Electrical and Computer Engineering, and MATH.1310 Calculus I, and PHYS.1410 Physics I.	
+EECE.2650	3	Logic Design (Formerly 16.265)                                                  	Pre-req: MATH 1320 Calculus ll, with a grade of "C" or better, or COMP 1020 Computing ll.	
+EECE.3110	2	Electronics I Lab (Formerly 16.311)                                             	Co-Req: EECE.3650 Electronics I.	
+EECE.3120	2	Electronics II Laboratory (Formerly 16.312)                                     	Co-req: EECE.3660 Electronics ll.	
+EECE.3170	3	Microprocessors Systems Design I (Formerly 16.317)                              	Pre-req: ECE Application Programming, and EECE 2650 Logic Design.	
+EECE.3220	3	Data Structures (Formerly 16.322)                                               	Pre-Req: EECE.2160 ECE Application Programming	
+EECE.3550	3	Electromechanics (Formerly 16.355)                                              	Pre-Req: EECE.2020 Circuit Theory II.	
+EECE.3600	3	Engineering Electromagnetics I (Formerly 16.360)                                	Pre-Req: EECE 2020 Circuit Theory II and PHYS 1440 Physics II.	
+EECE.3620	3	Signals and Systems I (Formerly 16.362)                                         	Pre-Req: EECE 2020 Circuit Theory II and MATH 2360 Eng Differential Equations.	
+EECE.3630	3	Introduction to Probability and Random Processes  (Formerly 16.363)             	Pre-Req: MATH 1320 Calculus II with 'C' or better.	
+EECE.3640	3	Engineering Mathematics (Formerly 16.364)                                       	Pre-Req: MATH 2360 Eng Differential Equations.	
+EECE.3650	3	Electronics I (Formerly 16.365)                                                 	Pre-req: EECE 2020 Circuit Theory ll, and PHYS 1440 Physics ll, and Co-req: EECE 3110 Electronics l Lab.	
+EECE.3660	3	Electronics II (Formerly 16.366)                                                	Pre-Req: C- or better in EECE 3650 Electronics I; Co-Req: EECE 3120 Electronics Lab II.	
+EECE.3991	3	Capstone Proposal (Formerly 16.399)                                             	Pre-req: EECE 3120 Electronics Lab II, EECE 3170 Microprocessors I,and EECE 3660 Electronics II and Senior Level.	
+EECE.4000	1	Engineering Topics (Formerly 16.400)                                            	Co-Req: 16.399 Capstone Proposal.	
+EECE.4030	3	Microwave Engineering (Formerly 16.403)                                         	Pre-Req: EECE.4610 Emag Theory II.	
+EECE.4090	3	Directed Studies (Formerly 16.409)                                              	Pre-Reqs: EECE 3550 Electromechanics,EECE 3600 Emag Theory I, EECE 3620 Signals & Systems I, EECE 3650 Electronics I,and EECE 3660 Electronics II.	
+EECE.4100	3	Directed Studies (Formerly 16.410)                                              	Pre-Reqs: EECE 3550 Electromechanics,EECE 3600 Emag Theory I,EECE 3620 Signals & Systems I,EECE 3650 Electronics I, and EECE 3660 Electronics II.	
+EECE.4110	3	Medical Diagnostic Imaging (Formerly 16.411)                                    	Pre-Req: 16.362 Signals & Systems I.	
+EECE.4120	3	Directed Studies (Formerly 16.412)                                              	Pre-Reqs: EECE 3550 Electromechanics,EECE 3600 Emag Theory I, EECE 3620 Signals & Systems I, EECE 3650 Electronics I,and EECE 3660 Electronics II.	
+EECE.4130	3	Linear Feedback System (Formerly 16.413)                                        	Pre-Req: EECE 3620 Signals & Systems I and EECE 3640 Engineering Math.	
+EECE.4140	3	Integrated Power Systems (Formerly 16.414/514)                                  	Pre-Req: EECE.2020 Circuit Theory II.	
+EECE.4180	3	Wireless Communication  (Formerly 16.418)                                       	Pre-req: EECE 3600 Engineering Electromagnetics I, and EECE 3620 Signals and Systems l.	
+EECE.4210	3	Real Time Digital Signal Processing (Formerly 16.421)                           	Pre-Req: 16.362 Signals & Systems I.	
+EECE.4230	3	Introduction to Solid State Electronics (Formerly 16.423)                       	Pre-Req: 16.365 Electronics I or Instructor permission.	
+EECE.4240	3	Computational Methods for Power System Analysis (Formerly 16.424/524)           	Pre-Req: EECE.2020 Circuit Theory II.	
+EECE.4260	3	Power Systems Stability and Control (Formerly 16.426/526)                       	Pre-Req: EECE.2020 Circuit Theory II.	
+EECE.4270	3	Advanced VLSI Design Techniques (Formerly 16.427/527)                           	Pre-Req: EECE 4690/502 VLSI Design, or Instructor permission.	
+EECE.4280	3	Alternative Energy Sources (Formerly 16.428)                                    	
+EECE.4290	3	Electric Vehicle Technology (Formerly 16.429)                                   	
+EECE.4310	3	R F Design (Formerly 16.431)                                                    	Pre-Req: EECE.3600 Emag Theory I.	
+EECE.4330	3	Electronic Materials (Formerly 16.333/EECE.3330)                                	Pre-req: MATH.1320 Calculus II and PHYS.1440 Physics II.	
+EECE.4350	3	Computational Electromagnetics (Formerly 16.435)                                	Pre-Req: 16.461 Emag Theory II.	
+EECE.4410	3	Introduction to Biosensors (Formerly 16.441/541)                                	
+EECE.4440	3	Power Distribution System (Formerly 16.444)                                     	Pre-Req: 16.355 Electromechanics.	
+EECE.4450	3	Analog Devices and Techniques (Formerly 16.445/565)                             	Pre-Req: 16.366 Electronics II.	
+EECE.4500	3	Advanced Digital System Design (Formerly  16.450)                               	Pre-req: EECE 2650 Logic Design, EECE 3660 Electronics II, EECE 3120 Electronics II Lab, and EECE 3170 Microprocessor Systems Design I, or permission of Instructor.	
+EECE.4530	3	Software Engineering (Formerly 16.453)                                          	Pre-Req: EECE 2160 Dig Control Programming and EECE 3220 Data Structures. or Permission of Instructor.	
+EECE.4590	3	Introduction to Nanoelectronics (Formerly 16.459/559)                           	
+EECE.4600	3	Biomedical Instrumentation (Formerly 16.460/560)                                	Pre-req: ECE senior/grad or BMEBT student	
+EECE.4610	3	Engineering Electromagnetics II (Formerly 16.461)                               	Pre-Req: EECE.3600 Emag Theory I.	
+EECE.4620	3	Antenna Theory and Design (Formerly 16.462)                                     	Pre-Req: EECE.4610 Emag Theory II.	
+EECE.4670	3	Special Topics (Formerly 16.467)                                                	
+EECE.4680	3	Electro-optics & Integrated Optics (Formerly 16.468)                            	Pre-Req: EECE.3600 Emag Theory I.	
+EECE.4690	3	VLSI Design (Formerly 16.469/502)                                               	
+EECE.4700	3	VLSI Fabrication (Formerly 16.470)                                              	Pre-Req: 16.365 Electronics I.	
+EECE.4720	3	Embedded Real Time Systems (Formerly 16.472)                                    	Pre-Reqs: EECE.2160 ECE Application Programming,EECE.3170 Microprocessor Sys Desgn I, EECE.3220 Data Structures.	
+EECE.4730	3	Power Electronics (Formerly 16.473/515)                                         	Pre-Reqs: EECE 3550 Electromechanics and EECE 3660 Electronics II.	
+EECE.4740	3	Principles Of Solid State Devices (Formerly 16.474)                             	Pre-Req: 16.365 Electronics I.	
+EECE.4800	3	Microprocessor Systems II & Embedded Systems (Formerly 16.480)                  	Pre-Reqs: EECE 3110 Electronics I Lab, EECE 3170 Microprocessor Sys Desgn I, and EECE 3650 Electronics I.	
+EECE.4810	3	Operating Systems (Formerly 16.481)                                             	Pre-Reqs: EECE.2160 ECE Application Programming,EECE.3170 Microprocessor Sys Desgn I, EECE.3220 Data Structures.	
+EECE.4820	3	Computer Architecture and Design (Formerly 16.482)                              	Pre-Reqs: EECE 3170 Microprocessor Sys Desgn I,EECE 2650 Intro Logic Design.	
+EECE.4830	3	Network Design: Principles, Protocols & Applications (Formerly 16.483)          	Pre-req: EECE.3220 Data Structures.	
+EECE.4840	3	Computer Vision and Digital Image Processing (Formerly 16.484)                  	Pre-req; EECE 2160 ECE Application Programming, and EECE 3620 Signals and Systems or Permission of Instructor.	
+EECE.4850	3	Computer Aided Engineering I Lab (Formerly 16.485)                              	
+EECE.4900	3	Fiber Optic Communication (Formerly 16.490)                                     	Pre-Reqs: EECE 3600 Emag Theory I, EECE 3620 Signals & Systems I or Instructor permission.	
+EECE.4910	12	Industrial Experience (Formerly 16.491)                                         	
+EECE.4920	3	Industrial Experience II (Formerly 16.492)                                      	
+EECE.4930	3	Industrial Experience III (Formerly 16.493)                                     	
+EECE.4991	3	Capstone Project (Formerly 16.499)                                              	Pre-Req: EECE.3990Capstone Proposal.	

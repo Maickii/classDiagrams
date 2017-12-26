@@ -1,0 +1,37 @@
+CHEN.1010	3	Technology and Human Built World (Formerly 10.101)                              	
+CHEN.1070	2	Introduction to Chemical Engineering (Formerly 10.107)                          	
+CHEN.2010	3	Material Balances (Formerly 10.201)                                             	Pre-Reqs: CHEM 1210 Chemistry I, PHYS 1410 Physics I or equivalent.	
+CHEN.2020	3	Energy Balance & Introduction to Thermodynamics (Formerly 10.202)               	Pre-Req: 10.201 Material Balances.	
+CHEN.2050	3	Fundamentals of Electricity (Formerly 10.205)                                   	Pre-req: Sophomore Level or Permission of Instructor.	
+CHEN.3030	3	Fluid Mechanics (Formerly 10.303)                                               	Pre-req: CHEN.2010 Material Balances and Co-req: MATH.2360 Engineering Differential Equations or MATH.2340 Differential Equations.	
+CHEN.3040	3	Heat Transfer (Formerly 10.304)                                                 	Pre-req:CHEN.2020 Energy Balance & Introduction to Thermodynamics and CHEN.3030 Fluid Mechanics and MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations.	
+CHEN.3060	3	Transport Phenomena (Formerly 10.306)                                           	Pre-Req: CHEN.3030 Fluid Mechanics and MATH.2310 Calculus III, and MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations	
+CHEN.3080	3	Introduction to Material Science and Engineering (Formerly 10.308)              	Pre-Reqs: CHEM 1210 Chemistry I, and CHEM 1220 Chemistry II.	
+CHEN.3100	3	Separation Processes with Mass Transfer (Formerly 10.310)                       	Pre-Reqs: CHEN 3110 Chem Eng Thermodynamics, and MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+CHEN.3110	3	Chemical Engineering Thermodynamics (Formerly 10.311)                           	Pre-req: CHEN.2020 Energy Balance & Introduction to Thermodynamics with a C- or better, and MATH.2310 Calculus III.	
+CHEN.3150	3	Unit Operations Laboratory (Formerly 10.315)                                    	Pre-req: CHEN.2020 Energy Balance & Introduction to Thermodynamics, and CHEN.3030 Fluid Mechanics, and ENGL.1020 College Writing II, and Co-req: CHEN.3040 Heat Transfer.	
+CHEN.3160	2	Unit Operations Laboratory II (Formerly 10.316)                                 	Pre-req: CHEN.2020 Energy Balance & Introduction to Thermodynamics, and CHEN.3030 Fluid Mechanics, and CHEN.3150 Unit Operations Laboratory I, and Co-req: CHEN.3040 Heat Transfer.	
+CHEN.3170	3	Applied Engineering Problem Solving (Formerly 10.317)                           	Pre-req: MATH.2340 Differential Equations or MATH.2360 Engineering Differential Equations, and Co-req: CHEN.3030 Fluid Mechanics.	
+CHEN.3470	3	Elements of Thermodynamics and Heat Transfer (Formerly 10.347)                  	
+CHEN.4030	3	Chemical Reaction Engineering (Formerly 10.403)                                 	Pre-req: CHEN.3110 Chemical Engineering Thermodynamics with a C- or better, and Co-req: CHEM 3440 Physical Chemistry I.	
+CHEN.4050	3	Design Of Papers (Formerly 10.405)                                              	
+CHEN.4090	3	Engineering Economics and Process Analysis (Formerly 10.409)                    	Pre-req: CHEN.2010,and CHEN.2020, and CHEN.3030, and CHEN.3040, and CHEN.3060, and CHEN.3100, and CHEN.3110, and CHEN.3150, and CHEN.3170, and CHEN.4030 all with a grade of C- or better, and Co-req: CHEN 4130	
+CHEN.4100	3	Chemical Plant Design (Formerly 10.410)                                         	Pre-req: CHEN.2010, and CHEN.2020, and CHEN.3030, and CHEN.3040, and CHEN.3060, and CHEN.3100, and CHEN.3110, and CHEN.3150, and CHEN.3170, and CHEN.4030, and CHEN.4090, and CHEN.4130 all with a C- or better, and Co-req: CHEN.4150	
+CHEN.4130	3	Process Dynamics & Control (Formerly 10.413)                                    	Pre-req: CHEN.3030 Fluid Mech., & CHEN.3040 Heat Transfer, & CHEN.3060 Transport Phenomena, & CHEN.3100 Sep. Proc. with Mass Transfer, & CHEN.3170 Applied Mathematics with Matlab, & MATH.2340 Differential Equations , or MATH.2360 Eng.Diff. Equations.	
+CHEN.4150	3	Process Operations and Controls Laboratory (Formerly 10.415)                    	Pre-req: CHEN.3100 Separation Processes with Mass Transfer, and CHEN.3150 Unit Oerations Laboratory, and Co-req: CHEN.4130 Process Dynamics and Control.	
+CHEN.4190	3	Special Senior Projects (Formerly 10.419)                                       	
+CHEN.4200	3	Special Senior Projects (Formerly 10.420)                                       	
+CHEN.4500	3	Nanoscale Trans. Phenomena for Manuf.  Nanodevices (Formerly 10/22/26.450)      	Pre-Req: CHEN 3030 Fluid Mechanics and CHEN 3040 Heat Transfer.	
+CHEN.4910	12	Industrial Experience I (Formerly 10.491)                                       	
+CHEN.4920	9	Industrial Experience II (Formerly 10.492)                                      	
+CHEN.4930	9	Industrial Experience III (Formerly 10.493)                                     	
+CHEN.4940	3	Select Topics: Paper Engineering (Formerly 10.494)                              	
+CHEN.4960	3	Selected Topics:Paper Engineering (Formerly 10.496)                             	
+ENGY.3310	3	Fundamentals of Nuclear Science and Engineering (Formerly 24/10.331)            	Co-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+ENGY.4190	3	Nuclear Reactor Operator Training  (Formerly 24.419)                            	
+ENGY.4200	3	Nuclear Reactor Operator Training II (Formerly 24.420)                          	Pre-Req: 24.419 Nuclear Reactor Operator Training I.	
+ENGY.4320	3	Nuclear Systems Design & Analysis (Formerly 24.432)                             	
+ENGY.4340	3	Nuclear Reactor Theory (Formerly 10/24/434)                                     	Pre-req: ENGY 3310 Fund. of Nuclear Science & Engineering, and MATH 2360 Eng. Differential Equations.	
+ENGY.4350	3	Nuclear Reactor Engineering                                                     	Pre-req: ENGY.4340 Nuclear Reactor Theory, familiarity with thermo, fluids, and heat transfer.	
+ENGY.4910	12	Industrial Experience (Formerly 24.491)                                         	
+ENGY.4950	3	Directed Studies (Formerly 24.495)                                              	

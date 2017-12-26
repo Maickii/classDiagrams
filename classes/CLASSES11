@@ -1,0 +1,39 @@
+MECH.1010	3	Kinetic Projects                                                                	
+MECH.1070	2	Introduction to Mechanical Engineering (Formerly 22/25.107)                     	
+MECH.1CO-OP	1	Curricula Practical Training                                                    	
+MECH.2000	1	Mechanical Engineering Project I (Formerly 22.200)                              	Level: minimum Sophomore standing.	
+MECH.2010	2	Computer Aided Design (Formerly 22.201)                                         	Pre-Requisite Introduction to Engineering I MECH.1070 or ENGN.1070.	
+MECH.2020	2	Manufacturing Laboratory (Formerly 22.202)                                      	Pre-Req: MECH.1070 Intro to Mechanical Engin or ENGN/EECE.1070.	
+MECH.2420	3	Thermodynamics (Formerly 22.242)                                                	Pre-Req: MATH 1320 Calc II or MATH 1420 Honors Calc II, or Calc A,B,C, and PHYS 2450 Physical Properties of Matter, and CHEM 1210 Chemistry I or CHEM 1350 Honors Chemisrty I.	
+MECH.2960	3	Materials Science for Engineers (Formerly 22.296)                               	Pre-Req: CHEM 1210 Chemistry I; and Mechanical Engineering majors only.	
+MECH.3000	1	Mechanical Engineering Project II (Formerly 22.300)                             	Pre-Req: 22.200 Mechanical Eng Project I.	
+MECH.3020	3	Instrumentation and Measurement Laboratory (Formerly 22.302)                    	Pre-req: C- or better in ENGN.2060 Strength of Materials.	
+MECH.3110	3	Applied Strength of Materials (Formerly 22.311)                                 	Pre-Req: C- in ENGN.2050 Statics and C- ENGN 2060 Strength of Materials; Pre/Co-Req: MECH 2960 Mechanical Behavior of Materials or Pre/Co-Req 22.295 Material Science & Engineering.	
+MECH.3210	3	Kinematics of Mechanisms (Formerly 22.321)                                      	Pre-req: C- in ENGN.2050 Statics and C- in ENGN.2070 Dynamics, and Pre-Co req  MECH.2010 Computer Aided Design and Mechanical Engineering majors only.	
+MECH.3220	3	Control of Mechanical Systems (Formerly 22.322)                                 	Pre-Req: MECH.3210 Mechanical Design I.	
+MECH.3410	3	Conduction & Radiation Heat Transfer (Formerly 22.341)                          	Pre-Reqs: MECH 2420 Thermodynamics, MATH 2310 Calculus III,   and MATH 2360 Eng Differential Equations or MATH 2340 Differential Equations.	
+MECH.3420	3	Convective Processes (Formerly 22.342)                                          	Pre-Reqs: MECH 3410 Conduction & Rad Heat Transfer and MECH 3810 Fluid Mechanics.	
+MECH.3610	3	Mathematical Methods for Mechanical Engineers (Formerly 22.361)                 	Pre-Req: MATH 1320 Calculus II.	
+MECH.3810	3	Fluid Mechanics (Formerly 22.381)                                               	Pre-req: MATH.2310 Calculus III, and MATH.2360 Differential Equations, and C- or better in ENGN.2070 Dynamics, and MECH.2420 Thermodynamics.	
+MECH.3820	3	Heat Transfer (Formerly 22.382)                                                 	Pre-req: C- or better in MECH.3810 Fluid Mechanics, and MECH.2420 Thermodynamics, ME Majors only all other Majors will require Instructor Permission.	
+MECH.4000	1	Mechanical Engineering Project III (Formerly 22.400)                            	Pre-Req: 22.300 Mechanical Eng Project II.	
+MECH.4030	3	Thermal Fluids Laboratory (Formerly 22.403)                                     	Pre-req: MECH.3410 Conduction and Radiation Heat Transfer, and C- or better in MECH.3810 Fluid Mechanics or MECH.3820 Heat Transfer.	
+MECH.4040	3	Advanced Mechanical Dynamic Measurement Systems (Formerly 22.404)               	Pre-req: MECH 3020 Mechanical Engineering Lab I, ENGN 2060 Strength of Materials, MECH 3610 Math Methods for ME, and MECH 4510 Dynamic Systems Analysis.	
+MECH.4230	3	Capstone Design (Formerly 22.423)                                               	Pre-Reqs: MECH 3110, MECH 3220, MECH 3820 ,MECH 4510, MECH 4730.	
+MECH.4250	3	Design of Machine Elements (Formerly 22.425)                                    	Co-req or Pre-req: MECH.3220 Control of Mechanical Systems, and Pre-req: C- or better in MECH.2960 Materials Science for Engineers, and MECH.3110 Applied Strength of Materials.	
+MECH.4260	3	Green Energy Engineering (Formerly 22.426)                                      	
+MECH.4280	3	Fundamentals of Engineering (ME) Review (Formerly 22.428)                       	Senior Status or Permission of Instructor.	
+MECH.4410	3	Thermo-fluid Applications (Formerly 22.441)                                     	Pre-req: MECH.3420 Convective Processes, or C- or better in MECH.3820 Heat Transfer.	
+MECH.4420	3	Thermo-fluid Systems Design (Formerly 22.442)                                   	Pre-req: MECH.4410  Analysis of Thermofluid Processes, Non-ME majors require Instructor permission.	
+MECH.4460	3	Computational Thermal Fluids (Formerly 22.446)                                  	Pre-Reqs: MATH 2340 Diff Eq or MATH 2360 Eng Diff Eq, MECH 3410Cond & Rad Heat Trans, MECH 3420 Connective Proc,  and MECH 3810 Fluid Mechanics.	
+MECH.4510	3	Dynamic Systems Analysis (Formerly 22.451)                                      	Pre-req: MATH.2360 Engineering Differential Equations, and EECE.2110 Fundamentals of Electricity, or PHYS.1440 Physics II, and C- or better in ENGN.2070 Dynamics.	
+MECH.4530	3	Mechatronics (Formerly 22.453)                                                  	Pre-Req: 22.361 Math Methods for Mech Eng.	
+MECH.4570	3	Vibrations (Formerly 22.457)                                                    	Pre-Reqs: MECH 4510 Dynamic Systems and MECH 3610 Math Methods for ME's; or Instructor permission.	
+MECH.4730	3	Design Theory and Constraints (Formerly 22.473)                                 	Pre-req: MECH.3020 Instrumentation and Measurement Laboratory.	
+MECH.4830	3	Aerodynamics and Flight Mechanics (Formerly 22.483)                             	Pre-Reqs: ENGN 2070 Dynamics and MECH 3810 Fluid Mechanics.	
+MECH.4860	3	Ocean Engineering (Formerly 22.486)                                             	Pre-req: Pre-Reqs: ENGN 2070 Dynamics, and MECH 3810 Fluid Mechanics.	
+MECH.4910	3	Industrial Experience I (Formerly 22.491)                                       	
+MECH.4920	3	Industrial Experience II (Formerly 22.492)                                      	
+MECH.4930	9	Industrial Experience III (Formerly 22.493)                                     	
+MECH.4991	3	Directed Studies in Mechanical Engineering (Formerly 22.499)                    	
+MTEC.2030	3	Introduction to Automated Control Programming                                   	

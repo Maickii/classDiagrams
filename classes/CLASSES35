@@ -1,0 +1,38 @@
+EDUC.1000	2	Teaching in the Inclusive Classroom, Part I                                     	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.1500	2	Teaching in the Inclusive Classroom, Part 2                                     	Pre-req: EDUC.1000 Teaching in the Inclusive Classroom, Part I.	
+EDUC.2000	3	Foundations of Reading                                                          	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.2100	3	Introduction to Moderate Disabilities                                           	Pre-req: EDUC.1000 Teaching in the Inclusive Classroom, Part 1, and EDUC.1500 Teaching in the Inclusive Classroom, Part 2.	
+EDUC.2200	3	Education Assessment of Students with Moderate D                                	Pre-req: EDUC.2100 Introduction to Moderate Disabilities.	
+EDUC.2500	3	Teaching Elementary Social Studies in the Inclusive                             	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.3000	3	Understanding Family and Community Engagement                                   	Pre-req: EDUC.2000 Foundations of Reading, and EDUC.2100 Introduction to Moderate Disabilities.	
+EDUC.3010	3	Early Literacy Community Experience I (Formerly 02.301)                         	
+EDUC.3020	3	Early Literacy Community Experience II (Formerly 02.302)                        	
+EDUC.3200	3	Methods of Teaching Students with Moderate Disabilities                         	Pre-req: EDUC.2100 Introduction to Moderate Disabilities, and EDUC.2200 Educational Assessment of Students with Moderate D.	
+EDUC.3400	3	Mathematics and Problem Solving in the Inclusive E                              	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.3500	3	Language and Writing Development                                                	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.3600	3	Teaching Science through Inquiry in the inclusive                               	Pre-req: Only students enrolled in BA Ed. degree program.	
+EDUC.3710	3	Educational Psychology (Formerly 01.371)                                        	Pre-Reqs: PSYC 1010 General Psychology or SOCI 1010 Intro to Sociology; and Sophomores, Juniors, or Seniors.	
+EDUC.3730	3	Teaching and Learning with Technology (Formerly 01.373)                         	
+EDUC.3840	3	Language, Literacy and Culture (Formerly 01.384)                                	
+EDUC.3910	3	Understanding Education (Formerly 01.391)                                       	
+EDUC.4000	3	Sheltered English Instruction                                                   	Pre-req or Co-req: EDUC.4100 Pre-practicum.	
+EDUC.4010	3	Exploring Teaching (Formerly 01.401)                                            	
+EDUC.4030	3	Understanding Child Development in a Diverse Society (Formerly 01.503)          	
+EDUC.4050	3	Children with Disabilities in the Classroom (Formerly 01.505)                   	
+EDUC.4100	2	Pre-practicum                                                                   	Pre-req: EDUC.2100 Introduction to Moderate Disabilities, and EDUC.2200 Educational Assessment of Students with Moderate D, and EDUC.2500 Teachin Elementary Social Studies in the Inclusive, and EDUC.2000 Foundations of Reading.	
+EDUC.4200	2	Elementary Education Practicum I                                                	Pre-req: EDUC.4000 Sheltered English Instruction, and EDUC.4100 Pre-practicum.	
+EDUC.4300	4	Elementary Education Practicum II                                               	Pre-req; EDUC.4200 Elementary Education Practicum I.	
+EDUC.4400	6	Special Education Practicum                                                     	Pre-req: EDUC.4000 Sheltered English Instruction, and EDUC.4100 Pre-practicum, and EDUC.4200 Elementary Education Practicum I, and EDUC.4300 Elementary Education Practicum II.	
+EDUC.4430	3	Methods of Teaching (Formerly 02.443)                                           	
+EDUC.4500	2	Clinical Seminar                                                                	Pre-req: EDUC.4000 Sheltered English Instruction, and EDUC.4200 Elementary Education Practicum I, and Co-req: EDUC.4300 Elementary Education Practicum II, and EDUC.4400 Special Education Practicum.	
+UTCH.1010	1	STEP 1: Inquiry Approaches to Teaching (Formerly UTL.101)                       	Math, Science & Engineering Majors only.	
+UTCH.1020	1	STEP 2: Inquiry Based Lesson Design (Formerly UTL.102)                          	Pre-req UTCH.1010 Step1: Inquiry Approach Teach., Math, Science and Engineering Majors only.	
+UTCH.1030	3	Introduction to STEM Teaching                                                   	Math, Science & Engineering Majors only. This course is a prerequisite to the STEM Teaching minor.	
+UTCH.2010	3	Knowing and Learning in Math and Science (Formerly UTL.201)                     	Math, Science & Engineering Majors only.	
+UTCH.2020	3	Interactions and Equity (Formerly UTL.202)                                      	Pre-req: UTCH.1020 Inquiry-based Lesson Design, or UTCH.1030 Introduction to STEM Teaching, and  UTCH.2010 Knowing and Learning in Math and Science, and UTCH.3020 Research Methods. For Math, Science and Engineering majors only.	
+UTCH.2040	3	Perspectives on Mathematics and Science (Formerly UTL.204)                      	Math, Science & Engineering Majors only.	
+UTCH.3010	3	Project-Based Instruction (Formerly UTL.301)                                    	Pre-req: UTCH.2020 Interactions and Equity, and UTCH.3020 Research Methods, and UTCH.4410 Teaching English Learners-Secondary. For Math, Science and Engineering students in the STEM Teaching Minor.	
+UTCH.3020	3	Research Methods (Formerly UTL.302)                                             	Pre-req: UTCH.1020 Inquiry-based Lesson Design, or UTCH.1030 Introduction to STEM Teaching. For Math, Science and Engineering majors only.	
+UTCH.4010	6	Practicum (Formerly UTL.401)                                                    	Pre-req: UTCH.3010, and  UTCH.2010, and UTCH.2040, and UTCH.3020, and UTCH.4410, (Math and Computer Science Majors: must also have MATH.2100 and MATH.4270).	
+UTCH.4410	3	Teaching Emergent Bilingual Students (Formerly 02.541 & UTL.441)                	Pre-req: Math, Science and Engineering majors in the STEM Teaching Minor.	
+UTCH.4910	9	Directed Study (Formerly UTL.491)                                               	

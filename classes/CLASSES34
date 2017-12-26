@@ -1,0 +1,109 @@
+ACCT.1CO-OP	1	Curricula Practical Training (Formerly ACCT/60.1 CO-OP)                         	
+ACCT.2010	3	Accounting/Financial (Formerly ACCT/60.201)                                     	
+ACCT.2020	3	Accounting/Managerial (Formerly ACCT/60.202)                                    	Pre-Req: ACCT.2010 Acct/Financial.	
+ACCT.2030	3	Fundamentals of Accounting                                                      	
+ACCT.3010	3	Intermediate Accounting I (Formerly ACCT/60.301)                                	Pre-Req: ACCT.2020 Accounting/Managerial; also 'C' or above required in ACCT.3010	
+ACCT.3020	3	Intermediate Accounting II (Formerly ACCT/60.302)                               	Pre-Req: ACCT.3010 Intermediate Acct I with 'C' or above, and 'C' or above required in ACCT.3020	
+ACCT.3030	3	Accounting Information Systems (Formerly ACCT/60.303)                           	Pre-Req: ACCT.3020 Intermediate Accounting II with 'C' or above; MIST.2010 Mgmt Information Systems with 'C'or above.	
+ACCT.3210	3	Cost Accounting (Formerly ACCT/60.321)                                          	Pre-Req: ACCT.3010 Intermediate Acct I with 'C' or above.	
+ACCT.4010	3	Advanced Financial Accounting I (Formerly ACCT/60.401)                          	Pre-Req:  ACCT.3020 Intermediate Accounting II with 'C' or above.	
+ACCT.4210	3	Auditing (Formerly ACCT/60.421)                                                 	Pre-Req: ACCT.3030 Accounting Information Systems with 'C' or above.	
+ACCT.4310	3	Federal Income Taxes (Formerly ACCT/60.431)                                     	Pre-req: ACCT.2020 Acct/Managerial.	
+ACCT.4790	3	Accounting Internship (Formerly ACCT/60.479)                                    	
+ACCT.4991	3	Independent Studies (Formerly ACCT/60.499)                                      	
+BUSI.1500	3	Business 101 (formerly 66.017, MGMT 150, BUSI 150)                              	All students are required to take this course if they have fewer than 30 earned credits	
+BUSI.2100	1	Professional Development Seminar (Formerly BUSI 210)                            	
+BUSI.3100	1	Co-op Assessment 1 (Formerly BUSI 310)                                          	Pre-Req: BUSI.2110 Professional Development Seminar.	
+BUSI.3200	2	Co-op Assessment I (6 months)                                                   	Pre-req: BUSI.3CE Co-op Experience and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.	
+BUSI.3CE	0	Cooperative Education Work Experience I (Formerly 69.3CE)                       	Pre-Req: BUSI.2110 Professional Development Seminar.	
+BUSI.4100	1	Co-op Assessment 2 (Formerly BUSI 410)                                          	Pre-req:BUSI.2100 Professional Develop Seminar, and BUSI.3100 Co-op Assessment l, and BUSI.3CE or 4CE Cooperative Education.	
+BUSI.4200	2	Co-op Assessment 2 (6 months)                                                   	Pre-req: BUSI.4CE Co-op Experience ll, and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.	
+BUSI.4800	3	Current Topics in Business                                                      	
+BUSI.4ACE	0	Cooperative Education Experience                                                	Pre-req: 69.210 Professional Developement Seminar and 69.3CE Cooperative Education Experience I and 69.4CE Cooperative Education Experience II	
+BUSI.4CE	0	Cooperative Education Work Experience II (Formerly BUSI 4CE)                    	Pre-req: 69.3CE Cooperative Education Work Experience l or permission of instructor.	
+ENTR.1000	1	The Freshmen Difference Maker Seminar (Formerly BUSI.1000)                      	
+ENTR.3000	3	Principles of Innovation and Entrepreneurship (Formerly ENTR/64.300)            	Requisite:  Sophomore level or higher.	
+ENTR.3610	3	Starting a New Venture  (Formerly ENTR/64.361)                                  	Junior Level or Higher or Permission of Instructor.	
+ENTR.3620	3	Corporate Entrepreneurship (Formerly ENTR/64.362)                               	Pre-Req: ENTR.3000, Prin.Innov & Entrepreneurship	
+ENTR.4100	3	Global Entrepreneurship and Innovation - I (Formerly ENTR /64.410)              	
+ENTR.4110	3	Global Entrepreneurship and Innovation - II (Formerly ENTR /64.411)             	
+ENTR.4630	3	Managing Innovation (Formerly ENTR /64.463)                                     	Junior Level or Higher or Permission of Instructor.	
+ENTR.4640	3	Finance for Emerging Business Enterprises (Formerly ENTR /64.464)               	Junior Level or Higher or Permission of Instructor.	
+ENTR.4800	3	Current Topics in Entrepreneurship (Formerly ENTR /64.480)                      	Pre-Req: FINA.3010 Business Finance, MGMT.3010 Organizational Behavior.	
+ENTR.4890	3	Internship in Entrepreneurship (Formerly ENTR /64.489)                          	Pre-Reqs: 61.301 Business Finance, 66.301 Organizational  Behavior; and Instructor permission.	
+ENTR.4960	3	Entrepreneurship Strategy Implementation (Formerly ENTR /64.496)                	
+ENTR.4991	3	Independent Studies (Formerly ENTR 499)                                         	
+FINA.1CO-OP	1	Curricula Practical Training (Formerly FINA 1CO-OP)                             	
+FINA.2210	3	Intro to Investments (Formerly FINA 221/ 61.300 )                               	Pre-Req: BSBA program and Junior Standing.	
+FINA.3010	3	Financial Management (Formerly FINA/61.301)                                     	Pre-reqs: ECON 2010 Economics I & ACCT.2010 Acct/Financial; or Business minor and ACCT.2010 Acct/Financial.	
+FINA.3030	3	Introduction to Financial Modeling                                              	Pre-req: FINA 3010 Financial Management, and FINA 3210 Investment and Portfolio Analysis.	
+FINA.3110	3	Introduction to Financial Statement Analysis (Formerly FINA/61.303)             	Pre-Req: FINA.3010 Financial Management.	
+FINA.3210	3	Investment and Portfolio Analysis (Formerly FINA 321/61.304 )                   	Pre-reqs: ECON 2010 Economics I & ACCT.2010 Acct/Financial; or Business minor and ACCT.2010 Acct/Financial; and COM filter courses.	
+FINA.3310	3	Principles of Corporate Finance (Formerly FINA 331/61.431)                      	Pre-Req: FINA.3010 Financial Management.	
+FINA.3320	3	Credit Risk Analysis (Formerly 61.332)                                          	Pre-Req: FINA.3110 Introduction to Financial Statement Analysis.	
+FINA.4110	3	Financial Institutions And Markets (Formerly FINA.411)                          	Pre-Req: FINA.3010 Financial Management.	
+FINA.4220	3	Portfolio and Security Analysis (Formerly FINA 422/61.421)                      	Pre-Reqs: FINA.3010 Business Finance and FINA.3210 Investment & Portfolio Analysis or FINA.2210 Investments.	
+FINA.4230	3	Student Managed Fund (Formerly FINA 423/61.434)                                 	Pre-req: FINA.3010 Financial Management, and FINA.3110 Introduction to Financial Statement Analysis.	
+FINA.4320	3	Intermediate Corporate Finance (Formerly FINA 432/61.433)                       	Pre-req: FINA.3310 Principles of Corporate Finance.	
+FINA.4410	3	Introduction to Financial Derivatives (Formerly FINA 441)                       	Pre-req: FINA.3010 Financial Management, or FINA.3210 Investment and Portfolio Analysis.	
+FINA.4510	3	Bank Management (Formerly FINA 451/61.302)                                      	Pre-Req: FINA.3010 Financial Management.	
+FINA.4550	3	Financial Regulation, Compliance, and Ethics                                    	Pre-Req: FINA.3010 Financial Management.	
+FINA.4890	3	Internship In Finance  (Formerly FINA /61.489)                                  	Pre-Reqs: 61.301Business Finance, Instructor permission.	
+FINA.4910	3	International Finance (Formerly FINA /61.491)                                   	Pre-Req: FINA.3010 Financial Management.	
+FINA.4970	3	Independent Study Finance (Formerly FINA 497/61.499 )                           	Pre-Reqs: 61.301 Business Finance, and Instructor permission.	
+FINA.4980	3	Special Topics in Finance (Formerly FINA 498/61.479 )                           	Pre-Req: FINA.3010 Financial Management.	
+MGMT.1010	1	First-Year Management Seminar - 2 (Formerly MGMT/66.101)                        	Pre-Req:  66.100 First-Year Management Sem - 1.	
+MGMT.1CO-OP	1	Curricula Practical Training (Formerly 66.1CO-OP)                               	
+MGMT.3010	3	Organizational Behavior (Formerly MGMT/66.301)                                  	Pre-req: Junior standing; or Business Minor.	
+MGMT.3100	3	Human Resources Management (Formerly MGMT/66.310)                               	Pre-Req: MGMT.3010 Organizational Behavior, preference MG Concentrators.	
+MGMT.3580	3	Organizational Development (Formerly MGMT/66.358)                               	
+MGMT.3800	3	Business Ethics (Formerly BUSI 380/3800)                                        	Pre-Req: MGMT.3010 Organizational Behavior.	
+MGMT.4100	3	Negotiation Strategy and Process (Formerly MGMT/66.410)                         	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4150	3	Managing Teams and Projects (Formerly MGMT/66.415)                              	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4200	3	Leadership Processes (Formerly MGMT/66.420)                                     	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4250	3	Business Process Management                                                     	Pre-Req: MGMT.3010 Organizational Behavior.	
+MGMT.4300	3	Managing Change                                                                 	Pre-Req: MGMT.3010 Organizational Behavior.	
+MGMT.4350	3	International Management (Formerly MGMT/66.435)                                 	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4400	3	International Business (Formerly MGMT/66.440)                                   	Pre-Req: MGMT.3010 Organizational Behavior.	
+MGMT.4450	3	Contemporary Management Development (Formerly MGMT/66.445)                      	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4500	3	Labor, Diversity, and Human Resource Management (Formerly MGMT/66.450)          	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4550	3	Compensation Management (Formerly MGMT/66.455)                                  	
+MGMT.4800	3	Current Topics in Management (Formerly MGMT/66.480)                             	Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.	
+MGMT.4890	3	Internship In Management (Formerly MGMT/66.489)                                 	Pre-Reqs:  66.301 Organizational Behavior, and Instructor permission.	
+MGMT.4900	3	Strategic Management (Formerly MGMT/66.490)                                     	Pre-req: FINA.3010, MKTG.2010, POMS.3010, MGMT.3010, and Senior Level.	
+MGMT.4910	6	Independent Study in Management (Formerly MGMT/66.491)                          	Pre-Reqs: 66.301 Organizational Behavior, and Instructor permission.	
+MIST.2010	3	Business Information Systems (Formerly 63.301: Management Information Systems, MIST 201)	Pre-Req: ENGL 1020 College Writing II, or permission of instructor.	
+MIST.3030	3	Database Management Systems (Formerly 63.303, MIST 303)                         	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.3040	3	Data Communications and Networks (Formerly 63.404, MIST 304)                    	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.3050	3	Business Applications Development (Formerly 63.330: Application Systems Development, MIST 305)	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.3070	3	Web Development in MIS (Formelry 63.408 Current Topics in MIS, MIST 307)        	Pre-req:  63.301 Mgmt. Information System, and MIS Concentration only, or Permission of Instructor.	
+MIST.4020	3	Systems Analysis and Design (Formerly 63.307, MIST 402)                         	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.4060	3	Data Mining for Business Intelligence (formerly 63.406: Decision Support Systems)	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.4070	3	Electronic Business (Formerly 63.407, MIST 407)                                 	Pre-req: 63.301 Management Information Systems.	
+MIST.4080	3	Enterprise Systems Management (Formerly 63.308, MIST 408)                       	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.4090	3	Directed Study in Management Information Systems (Formerly 63.409, MIST 409)    	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MIST.4880	3	Current Topics in Management Information Systems (Formerly 63.498, MIST 488)    	
+MIST.4890	3	Internship in Management Information Systems (Formerly 63.489, MIST 489)        	Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.	
+MKTG.1CO-OP	1	Curricula Practical Training                                                    	
+MKTG.2010	3	Marketing Principles (Formerly MKTG 201/62.201)                                 	Pre-req: ENGL.1010 College Writing I, or ENGL.1020 College Writing II, or HONR.110 First Year Seminar in Honors:Text in the City.	
+MKTG.2100	3	Professional Communications (Formerly MKTG 210/66.210)                          	Pre-Req: Business majors & ENGL.1020 College Writing 2 or equiv.	
+MKTG.3020	3	Marketing Research (Formerly MKTG 302/62.302)                                   	Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.	
+MKTG.3130	3	Sales and Customer Relations (Formerly MKTG 313/62.313)                         	Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.	
+MKTG.3150	3	New Product & Service Management (Formerly MKTG 315/62.315/62.311)              	Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.	
+MKTG.4010	3	Advertising (Formerly 62.401/MKTG.401)                                          	Pre-Req: MKTG.2010 Marketing Principles.	
+MKTG.4020	3	Buyer Behavior (Formerly MKTG 402/62.402)                                       	Pre-Req: MKTG.2010 Marketing Principles.	
+MKTG.4070	3	Retailing (Formerly MKTG 407/62.407)                                            	Pre-Req: MKTG.2010 Marketing Principles.	
+MKTG.4110	3	Marketing Analytics (Formerly MKTG 411/62.411/62.312)                           	Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.	
+MKTG.4120	3	Global Marketing (Formerly MKTG 412/62.412/62.303)                              	Pre-Req: MKTG.2010 Marketing Principles.	
+MKTG.4960	3	Current Topics in Marketing (Formerly MKTG 496/62.496)                          	Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.	
+MKTG.4970	3	Senior Seminar                                                                  	
+MKTG.4980	3	Marketing Internship (Formerly MKTG 498/62.498)                                 	
+MKTG.4991	3	Independent Study in Marketing (Formerly MKTG 499/62.499)                       	Pre-Reqs:  62.201 Marketing Principles, and Instructor permission.	
+POMS.2010	3	Introduction to Business Analytics (Formerly 63.210/POMS.201 Managerial Decision Making)	Pre-Req: ECON 2110 Statistics I or MATH.2830 Intro to Statistics or MATH.3860 Probability and Statistics I	
+POMS.3010	3	Operations Management (Formerly 63.371/POMS 301)                                	Pre-Req: POMS.2010 Managerial Decision Making.	
+POMS.4010	3	Logistics and Transportation (Formerly  63.469/POMS 401)                        	Pre-Req: POMS.3010 Operations Management.	
+POMS.4020	3	Global Supply Chain Management (Formerly POMS 402/63.402)                       	Pre-Req: POMS.3010 Operations Management.	
+POMS.4030	3	Service Management (Formerly POMS 403/63.470)                                   	Pre-Req: POMS.3010 Operations Management.	
+POMS.4040	3	Managerial Quality Control (Formerly 63.471/POMS 404)                           	Pre-Req: POMS.3010 Operations Management.	
+POMS.4090	3	Directed Study in Operations Management (Formerly 63.479/POMS 409)              	Pre-Req: POMS.3010 Operations Management.	
+POMS.4890	3	Internship in Operations Management (Formerly 63.490/POMS 489)                  	Pre-Req: POMS.3010 Operations Management.	

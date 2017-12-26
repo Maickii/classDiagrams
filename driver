@@ -1,0 +1,12 @@
+#!/bin/bash
+
+link="https://www.uml.edu"
+ext="course-listing.aspx"
+input="/home/michael/workspace/classDiagrams/webscrapper/majorsLinks.txt"
+while IFS= read -r line
+do
+#	new_name=${line%.*}
+#	new_name="${new_name::-1}"
+	full=$link$line$ext
+	echo $full
+done < "$input"

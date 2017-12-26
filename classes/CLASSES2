@@ -1,0 +1,47 @@
+CHEM.1010	3	Applied Chemistry for Non-Scientists (Formerly 84.101)                          	Not for Science and Math Majors.	
+CHEM.1020	3	Forensic Science for the Non-Scientist (Formerly 84.102)                        	
+CHEM.1050	1	Intro to the Discipline of Chemistry (Formerly 84.105)                          	Pre-Req: Students must be declared Chemistry majors	
+CHEM.1110	3	General Chemistry I (Formerly 84.111)                                           	Co-Req: 84.113 General Chemistry Lab I and Anti-Req: CHEM.1210 and CHEM.1350.	
+CHEM.1120	3	General Chemistry II (Formerly 84.112)                                          	Pre-Req: CHEM 1110 General Chemistry I;  Co-Req: CHEM 1140L General Chemistry Lab II and Anti-Req: CHEM.1220 and CHEM.1360.	
+CHEM.1130L	1	General Chemistry Laboratory I (Formerly 84.113)                                	Co-Req: 84.111 General Chemistry I.	
+CHEM.1140L	1	General Chemistry Laboratory II (Formerly 84.114)                               	Pre-Req: CHEM 1130L General Chemistry Lab I;  Co-Req: CHEM 1120 General Chemistry II.	
+CHEM.1150	3	Principles of Chemistry (Formerly 84.115)                                       	
+CHEM.1170	3	Selected Topics in Chemistry (Formerly 84.117)                                  	Co-Req: 84.119 Selected Topics in Chemistry Lab.	
+CHEM.1210	3	Chemistry I (Formerly 84.121)                                                   	Co-Req: CHEM.1230L Chemistry I Lab and Anti-Req: CHEM.1110 and CHEM.1350; Anti-Req: Students only can receive credit for one of the following freshmen-level chemistry I lecture/lab courses: CHEM.1110/1130L, CHEM.1210/1230L; or CHEM.1350/1230L.	
+CHEM.1220	3	Chemistry II (Formerly 84.122)                                                  	Pre-Reqs: CHEM 1210 Chemistry I or CHEM 1170 Selected Topics in Chemistry;  Co-Req: CHEM 1240L Chemistry II Lab and Anti-Req: CHEM.1120 and CHEM.1360.	
+CHEM.1230L	1	Chemistry I Laboratory (Formerly 84.123)                                        	Co-Req: CHEM 1210 Chemistry I.	
+CHEM.1240L	1	Chemistry II Laboratory (Formerly 84.124)                                       	Co-Req: CHEM 1220 Chemistry II or 84.119 Selected Topics/Chemistry Lab.	
+CHEM.1350	3	Honors Chemistry I (Formerly 84.135)                                            	Co-Req: CHEM.1230L Chemistry I Lab and Anti-Req: CHEM.1110 and CHEM.1350; Anti-Req: Students only can receive credit for one of the following freshmen-level chemistry I lecture/lab courses: CHEM.1110/1130L, CHEM.1210/1230L; or CHEM.1350/1230L.	
+CHEM.1360	3	Honors Chemistry II (Formerly 84.136)                                           	Pre-Req: CHEM 1210 Chemistry I; or CHEM 1350 Honors Chemistry I; and Co-Req: CHEM 1240L Chemistry II Lab and Anti-Req: CHEM.1120 and CHEM.1220.	
+CHEM.2040	3	Introduction to Organic and Polymer Chemistry (Formerly 84.204)                 	Pre-Req:  CHEM 1210 Chemistry I;  Plastics Engineering majors only.	
+CHEM.2050L	1	Principles Of Organic Chemistry Laboratory (Formerly 84.205)                    	Co-req: CHEM.2220 Organic Chemistry IIA and Chemical Engineering Students Only.	
+CHEM.2210	3	Organic Chemistry I (Formerly 84.221)                                           	Pre-Reqs: CHEM 1220 & CHEM 1240L;  Co-Req: CHEM 2270L (Chemistry majors only)  or CHEM 2290L (Biology majors only) or Chemical Engineering, or Biomedical Engineering majors.	
+CHEM.2220	3	Organic Chemistry IIA (Formerly 84.222)                                         	Pre-Reqs: CHEM 2210 Org Chemistry I with grade of D or better; Co-Req: CHEM 2280L (Chemistry majors only)  or CHEM 2300L Org Chemistry Lab II.	
+CHEM.2230	3	Organic Chemistry IIB (Formerly 84.223)                                         	Pre-Reqs: CHEM 2210 Org Chemistry IA and CHEM 2290L Org Chem Lab IA; Co-Req: CHEM 2300L Organic Chemistry II A Lab, and Biology Majors Only.	
+CHEM.2270L	2	Organic Chemistry Laboratory IA (Formerly 84.227)                               	Co-req: CHEM.2210 Organic Chemistry IA and Chemistry Majors Only.	
+CHEM.2280L	2	Organic Chemistry Laboratory IIA (Formerly 84.228)                              	Pre-reqs: CHEM 2210 Organic Chemistry IA, CHEM 2270L Organic Chemistry Lab II; Co-reqs: CHEM 2220 Organic Chemistry IIA, CHEM 2600 Info Retrieval. For Chemistry Majors Only.	
+CHEM.2290L	1	Organic Chemistry Laboratory IB (Formerly 84.229)                               	Co-Req: CHEM.2210 Organic Chemistry I for Biology and Health Science and Biomedical Engineering majors.	
+CHEM.2300L	1	Organic Chemistry Lab IIB  (Formerly 84.230)                                    	Co-Req: CHEM 2220 or CHEM 2230 Organic Chemistry II for Biology and Health Science Majors.	
+CHEM.2600	2	Information Retrieval (Formerly 84.260)                                         	Co-Req: CHEM.2280L  Organic Chemistry Lab II.	
+CHEM.3010	3	Special Topics: Chemistry (Formerly 84.301)                                     	
+CHEM.3030	3	Forensic Science I (Formerly 84.303)                                            	Co-Req: CHEM 3050L Forensic Science I Lab; Pre-Reqs: CHEM 2220 Org Chem IIA, PHYS 1440 Physics II, and MATH 2310 Calculus III.	
+CHEM.3040	3	Forensic Science II (Formerly 84.304)                                           	Co-Req: CHEM 3060L Forensic Science II Lab; and Pre-Reqs: CHEM 3030/305 Forensic Science I/Forensic Science I Lab.	
+CHEM.3050L	1	Forensic Science I Laboratory (Formerly 84.305)                                 	Co-Req: CHEM 3030 Forensic Science I; Pre-Reqs: CHEM 2220 Org Chem IIA, PHYS 1440 Physics II, and MATH 2310 Calculus III.	
+CHEM.3060L	1	Forensic Science II Laboratory (Formerly 84.306)                                	Co-Req: CHEM 3040 Forensic Science II; and Pre-Reqs: CHEM 3030/305 Forensic Science I and Forensic Science I Lab.	
+CHEM.3130	3	Analytical Chemistry I (Formerly 84.313)                                        	Co-Req: 84.315 Analytical Chem Lab I.	
+CHEM.3140	3	Analytical Chemistry II (Formerly 84.314)                                       	Pre-Reqs: CHEM 3130 Analytical Chem I, PHYS 1440 Physics II;  Co-Reqs: CHEM 3160L Analytical Chem II Lab, CHEM 3450 Physical Chemistry II.	
+CHEM.3150L	2	Analytical Chemistry Laboratory I (Formerly 84.315)                             	Co-Req: 84.313 Analytical Chem I.	
+CHEM.3160L	2	Analytical Chemistry Laboratory II (Formerly 84.316)                            	Pre-Reqs: CHEM 3130 Analytical Chem I, CHEM 3150L Analytical Chem Lab I;  Co-Req: CHEM 3140 Analytical Chemistry II.	
+CHEM.3390	2	Physical Chemistry Principles (Formerly 84.339)                                 	Pre-Reqs: CHEM 1220 Chemistry II and PLAS 2470 Thermodynamics.	
+CHEM.3440	3	Physical Chemistry I (Formerly 84.344)                                          	Pre-Req: MATH 2310 Calculus III, CHEM 1220 Chemistry II, PHYS 1410 Physics I; Co-Req CHEM 3460L Physical Chem Lab I or Chemical Engineering (BS) or Chemistry (BS).	
+CHEM.3450	3	Physical Chemistry II (Formerly 84.345)                                         	Pre-Req: CHEM.3440 Physical Chemistry I and (MATH.2340 Differential Equations or MATH.2360 Eng. Differential Equations).	
+CHEM.3460L	2	Physical Chemistry Laboratory I (Formerly 84.346)                               	Pre-Req: CHEM 1240L Chemistry II Lab;  Co-Req: CHEM 3440 Physical Chemistry I.	
+CHEM.3470L	1	Physical Chemistry Laboratory II (Formerly 84.347)                              	Pre-req or Co-req: CHEM.3440 Physical Chemistry I.	
+CHEM.3500L	2	Physical Bioinorganic Laboratory (Formerly 84.350)                              	Pre-Reqs: CHEM 3440 Physical Chemistry I and  CHEM 3460L Physical Chemistry Lab I.	
+CHEM.3600	3	The Responsible Chemist (Formerly 84.360)                                       	Chemistry Majors Only	
+CHEM.4030	3	Polymer Science I (Formerly 84.403)                                             	Pre-Req: 84.222 Organic Chemistry IIA or 84.203 Princ of Organic Chem or 84.345 Physical Chemistry II.	
+CHEM.4070	3	Undergraduate Thesis (Formerly 84.407)                                          	
+CHEM.4080	3	Undergraduate Thesis II (Formerly 84.408)                                       	
+CHEM.4430	3	Advanced Inorganic Chemistry (Formerly 84.443)                                  	Co-Req: 84.345 Physical Chemistry II.	
+CHEM.4450L	2	Advanced Inorganic Lab (Formerly 84.445)                                        	Co-req: 84.443 Advanced Inorganic Chemistry.	
+CHEM.4500	3	Introduction To Biochemistry (Formerly 84.450)                                  	Pre-Req: CHEM 2220 Organic Chemistry IIA and Co-Req: CHEM 3440 Physical Chemistry I.	

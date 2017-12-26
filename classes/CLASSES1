@@ -1,0 +1,97 @@
+BIOL.1110	3	Principles of Biology I (Formerly 81.111)                                       	Co-Req: BIOL.1170L Experimental Biology I and Anti-Req: BIOL.1220 and BIOL.2100 and LIFE.1000 and LIFE.1010.	
+BIOL.1120	3	Principles of Biology II (Formerly 81.112)                                      	Co-Req: BIOL.1180L Experimental Biology II.	
+BIOL.1160	1	Freshman Seminar in Biology (Formerly 81.116)                                   	
+BIOL.1170L	1	Experimental Biology I (Formerly 81.117)                                        	Co-Req: BIOL.1110 Principles of Biology I.	
+BIOL.1180L	1	Experimental Biology II (Formerly 81.118)                                       	
+BIOL.1220	3	Biology for Health Sciences (Formerly 81.122)                                   	Co-req: BIOL.1240 Biology for Health Sciences Lab, and Exercise Physiology Majors Only; Anti-Req: BIOL.1110 and BIOL.2100 and LIFE.1000 and LIFE.1010.	
+BIOL.1240L	1	Biology for Health Sciences Lab (Formerly 81.124)                               	Co-Req: BIOL.1220 Biology for Health Sciences.	
+BIOL.1CO-OP	1	Curricula Practical Training                                                    	
+BIOL.2010	3	General Microbiology (Formerly 81.201)                                          	Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.	
+BIOL.2030L	2	General Microbiology Laboratory (Formerly 81.203)                               	Co-Req: 81.201 General Microbiology.	
+BIOL.2100	3	Biology for Engineers (Formerly 81.210)                                         	Co-req: BIOL.2120L Biology for Engineers Lab. Anit-Req: BIOL.1110 and BIOL.1220 and LIFE.1000 and LIFE.1010.	
+BIOL.2120L	1	Biology for Engineers Laboratory (Formerly 81.212)                              	Co-req: BIOL.2100 Biology for Engineers.	
+BIOL.2200	3	Principles of Cell and Molecular Biology (Formerly 81.220)                      	Pre-req: C- or better in BIOL-1110 Principles of Biology l.	
+BIOL.2330L	2	Experimental Methods in Biology (Formerly 81.233)                               	Pre-req: BIOL 1170L Experimental Biology I and BIOL 1180L Experimental Biology II.	
+BIOL.2350	3	Genetics (Formerly 81.235)                                                      	Pre-req: C- or better in BIOL-1110 Principles of Biology l, and Co-req: BIOL.2370 Problems in Genetics.	
+BIOL.2370	1	Problems in Genetics (Formerly 81.237)                                          	Co-Req:  81.235 Genetics	
+BIOL.2400	3	Evolution, Ecology and Conservation (Formerly 81.240)                           	Pre-req: C- or better in both BIOL.1110 Principles of Biology l, and BIOL.1120 Principles of Biology ll.	
+BIOL.2520	3	Physiology (Formerly 81.252)                                                    	
+BIOL.3000L	2	Directed  Research  Experience II (Formerly 81.300)                             	
+BIOL.3010	3	Microbiology (Formerly 81.301)                                                  	Pre-Reqs: BIOL.1110/1120 Principles of Biology I & II and CHEM.1210 Chemistry I or CHEM.1220 Chemistry II or CHEM.1350 Honors Chemistry.	
+BIOL.3030L	2	Microbiology Laboratory (Formerly 81.303)                                       	Co-Req: 81.301 Microbiology	
+BIOL.3050	3	Introduction to Bioinformatics                                                  	Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.	
+BIOL.3050	3	Introduction to Bioinformatics                                                  	Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.	
+BIOL.3060	3	Invertebrate Zoology (Formerly 81.306)                                          	
+BIOL.3080L	1	Invertebrate Zoology Lab (Formerly 81.308)                                      	Co-req: BIOL.3060 Invertebrate Zoology.	
+BIOL.3150	3	Principles of Ecology (Formerly 81.315)                                         	Pre-Req: 81.112 Principles of Biology II.	
+BIOL.3170L	2	Principles of Ecology Laboratory (Formerly 81.317)                              	Co-Req: 81.315 Principles of Ecology.	
+BIOL.3200	3	Botany (Formerly 81.320)                                                        	
+BIOL.3220L	1	Botany Laboratory (Formerly 81.322)                                             	Co-Req: 81.320 Botany.	
+BIOL.3240	3	Economic Botany (Formerly 81.324)                                               	Pre-req: BIOL 1110 Principles of Biology I, or LIFE 1010 Life Science I.	
+BIOL.3420	3	Comp Vertebrate Anatomy (Formerly 81.342)                                       	
+BIOL.3440L	2	Comp Vertebrate Anatomy Laboratory (Formerly 81.344)                            	Pre-Req: 81.342 Comp Vertebrate Anatomy.	
+BIOL.3620	3	Development and Evolution                                                       	Pre-req: BIOL.2200 Principles of Cell and Molecular Biology, and BIOL.2400 Evolution, Ecology and Conservation.	
+BIOL.3840	3	Form Feeds Function in Vertebrate Evolution                                     	Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.	
+BIOL.4010L	1	Supervised Teaching Biology I (Formerly 81.401)                                 	
+BIOL.4020L	1	Supervised Teaching Biology II (Formerly 81.402)                                	
+BIOL.4050	3	Bioinformatics                                                                  	Pre-req: BIOL.2350 Genetics, and Co-req: BIOL.4070 Bioinformatics Lab.	
+BIOL.4060L	1	Environment  Microbiology Laboratory (Formerly 81.406)                          	Co-Req: 81.404 Enviromental Microbiolgy.	
+BIOL.4070	1	Bioinformatics Laboratory                                                       	Co-req: BIOL.4050 Bioinformatics.	
+BIOL.4090	3	Photobiology (Formerly 81.409)                                                  	Pre-Req: BIOL.4190 Biochemistry.	
+BIOL.4110L	4	Senior Research Biology (Formerly 81.411)                                       	
+BIOL.4120L	4	Senior Research: Biology (Formerly 81.412)                                      	
+BIOL.4130	3	Invertebrate Zoology II (Formerly 81.413)                                       	Co-Req: BIOL 4150L  Invertebrate Zoology Lab II; Pre-Req: BIOL 3060 Invertebrate Zoology.	
+BIOL.4150L	1	Invertebrate Zoology Lab II (Formerly 81.415)                                   	Co-Req; BIOL 4130 Invertebrate Zoology II, Pre-Req: BIOL 3080L Invertebrate Zoology Lab.	
+BIOL.4190	3	Biochemistry (Formerly 81.419)                                                  	Pre-req CHEM 2220 Organic Chemistry II or CHEM 2230 Organic Chemistry IIB and BIOL 2200 Principles of Cell and Molecular Biology or BIOL 2350 Genetics or BIOL 2120L Biology for Engineers.	
+BIOL.4200	3	Biochemistry II (Formerly 81.420)                                               	Pre-Req: 81.419 Biochemistry.	
+BIOL.4210L	2	Biochemistry Techniques (Formerly 81.421)                                       	Pre-req: CHEM.2300L Organic Chem Lab IIB, or CHEM.2280L Organic Chem Lab IIA, and BIOL.2330L Experimental Methods in Biology.	
+BIOL.4230	3	Biology of Global Change (Formerly 81.423)                                      	Pre-Req: 81.112 Principles of Biology II.	
+BIOL.4260	3	Evolutionary Biology (Formerly 81.426)                                          	Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.	
+BIOL.4280	3	Molecular Biotechnology: Recombinant Protein Production (Formerly 81.428)       	Pre-req: 81.111 Principles of Biology I.	
+BIOL.4290	4	Recombinant Protein Production Techniques (Formerly 81.429 & 81.529)            	Pre-req: BIOL 2330L Experimental Methods in Biology, or BIOL 4210L Biochemistry Techniques.	
+BIOL.4320	3	Genomics (Formerly 81.432)                                                      	Pre-req: BIOL 2350 Genetics and Co-req: BIOL 4340L Genomics Laboratory.	
+BIOL.4340L	1	Genomics Laboratory (Formerly 81.434)                                           	Pre-req: BIOL 2350 Genetics and Co-req: BIOL 4320 Genomics.	
+BIOL.4370	3	Biology and Evolution of Arthropoda (Formerly 81.437)                           	Pre-req: BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab; BIOL 4260 Evolutionary Biology and Co- req: BIOL 5390L Biology and Evolution of Arthropoda Lab.	
+BIOL.4390L	1	Biology and Evolution of Arthropoda Laboratory (Formerly 81.439)                	Pre-req: BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab, BIOL 4260 Evolutionary Biology and Co-req: BIOL 5370 Biology and Evolution of Arthropoda.	
+BIOL.4400	3	Advances in Plant Biology (Formerly 81.440)                                     	Pre-req: BIOL.2350 Genetics and BIOL.4190 Biochemistry I.	
+BIOL.4420	3	Cell Biology (Formerly 81.442)                                                  	Pre-req: BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.	
+BIOL.4510	2	Senior Seminar in Biology (Formerly 81.451)                                     	
+BIOL.4520	1	Senior Seminar II (Formerly 81.452)                                             	
+BIOL.4570	3	Metazoan Parasitology (Formerly 81.457)                                         	Pre-Req: BIOL 3060 Invertebrate Zoology;  Co-Req: BIOL 4590L Metazoan Parasitology Laboratory.	
+BIOL.4590L	1	Metazoan Parasitology Laboratory (Formerly 81.459)                              	Co-req: BIOL.4570 Metazoan Parasitology.	
+BIOL.4600	3	Stem Cell Biology (Formerly 81.460)                                             	Pre-Req: BIOL 3350 Principles of Genetics or BIOL 2350 Genetics.	
+BIOL.4620	3	Cardiovascular Physiology (Formerly 81.462)                                     	Pre-req: BIOL.4190 Biochemistry, and BIOL 2520 Physiology, or BIOL 5520 Quantitative Physiology, or HSCI 1020 Human Anatomy & Physiology ll, and Co-req: BIOL 4630L Cardiovascular Physiology Lab.	
+BIOL.4630L	1	Cardiovascular Physiology Lab (Formerly 81.463)                                 	Co-req: BIOL.4620 Cardiovascular Physiology.	
+BIOL.4670	3	Molecular Biology (Formerly 81.467)                                             	Pre-req: BIOL 2350 Genetics or BIOL 3350 Principles of Genetics and BIOL 4190 Biochemistry.	
+BIOL.4690L	4	Molecular Techniques (Formerly 81.469)                                          	Pre-req: BIOL 2350 Genetics, BIOL 4190 Biochemistry, and BIOL 4210L Biochemistry Techniques.	
+BIOL.4720	3	Virology (Formerly 81.472)                                                      	Pre-req: BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.	
+BIOL.4760	4	Cell Culture (Formerly 81.476)                                                  	Pre-Reqs: BIOL 4420 or BIOL 4600 or BIOL 4670, and BIOL 4210L or BIOL 5210L Biochemistry Techniques.	
+BIOL.4800	3	Developmental Biology                                                           	Pre-req: BIOL.2200 Principles of Cell and Molecular Biology, and Co-req: BIOL.4810L Developmental Biology Lab.	
+BIOL.4810L	1	Developmental Biology Lab                                                       	Co-req: BIOL.4800 Developmental Biology.	
+BIOL.4820	3	Cancer Biology (Formerly 81.482)                                                	Pre-Req: 81.220 Principles of Cell & Molecular Biology	
+BIOL.4840	3	Comparative Vertebrate Embryology                                               	Pre-req: BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.	
+BIOL.4880	3	Structural Biology (Formerly 81.488)                                            	Pre-Req: BIOL.4190 Biochemistry.	
+BIOL.4890	4	Practical Protein Crystallography (Formerly 81.589 & 81.489)                    	Pre-req: BIOL 2330L Experimental Methods in Biology, or BIOL 4210L Biochemistry Techniques.	
+BIOL.4900	3	Human Neurobiology (Formerly 81.490 & 81.590)                                   	Pre-req or Co-req: 81.419 Biochemistry.	
+BIOL.4910L	4	Senior Project: Biology (Formerly 81.491)                                       	
+BIOL.4920L	4	Senior Project: Biology (Formerly 81.492)                                       	
+BIOL.4930	3	Immunology (Formerly 81.493 & 81.593)                                           	Pre-Req: BIOL 1110 Principles of Biology I, BIOL 1170L Experimental Biology I, BIOL 1120 Principles of Biology II, and BIOL 1180L Experimental Biology II	
+BIOL.4950L	2	Immunology Laboratory (Formerly 81.495 & 81.595)                                	Co-Req: 81.493 Immunology.	
+BIOL.4960	3	Practicum Experience (Formerly 81.496)                                          	
+BIOL.4970	1	Directed Study: Biological Science (Formerly 81.497)                            	
+BIOL.4980	2	Directed Study: Biology (Formerly 81.498)                                       	
+BIOL.4991	3	Directed Study: Biology (Formerly 81.499)                                       	
+LIFE.1000	3	Introduction to Biology (Formerly 83.100)                                       	Anti-Req: BIOL.1110 and BIOL.1220 and BIOL.2100 and LIFE.1010.	
+LIFE.1010	3	Life Science I (Formerly 83.101)                                                	Anti-Req: LIFE.1000 and BIOL.1110 and BIOL.1220 and BIOL.2100.	
+LIFE.1020	3	Life Science II (Formerly 83.102)                                               	
+LIFE.1030L	1	Life Science I Laboratory (Formerly 83.103)                                     	Pre/Co-Req: LIFE.1010 Life Science I.	
+LIFE.1040L	1	Life Science II Laboratory (Formerly 83.104)                                    	
+LIFE.1050L	1	Introduction to Biology Lab (Formerly 83.105)                                   	Pre-Req or Co-Req: LIFE.1000 Intro to Biology; not for Biology majors.	
+LIFE.1060	3	Human Biology (Formerly 83.106)                                                 	
+LIFE.1100	3	Microbes and Society: Good, Bad and Ugly (Formerly 83.110)                      	
+LIFE.1230	3	Nutrition and Disease (Formerly 83.123)                                         	
+LIFE.1250	3	Plants and Human Society (Formerly 83.125)                                      	
+LIFE.1270	1	Plants & Human Society Lab (Formerly 83.127)                                    	Pre-Req or Co-Req: 83.125 Plants & Human Society.	
+LIFE.1990L	1	Life Science 1000 level elective (Formerly 83.199)                              	
+LIFE.2140	3	Human Ecology (Formerly 83.214)                                                 	
+LIFE.3270	3	Histology (Formerly 83.327)                                                     	

@@ -1,0 +1,27 @@
+ECON.1010	3	The Economics of Social Issues (Formerly 49.101)                                	
+ECON.2010	3	Economics I (Microeconomics) (Formerly 49.201)                                  	
+ECON.2020	3	Economics II (Macroeconomics) (Formerly 49.202)                                 	
+ECON.2110	3	Statistics for Business and Economics I (Formerly 49.211)                       	Pre-Req: MATH 1210 Management Precalculus or MATH 1280 Calculus IA must receive a grade of C- or better, or a grade of CR in NONC MGTPRE or NONC MGTCAL.	
+ECON.2120	3	Statistics for Business and Economics II (Formerly 49.212)                      	Pre-Req: ECON 2110 Statistics I or 92.183 Intro to Statistics or MATH 2830 Introduction to Statistics.	
+ECON.3020	3	Labor Economics (Formerly 49.302)                                               	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3030	3	Microeconomic Theory (Formerly 49.303)                                          	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3040	3	Macroeconomic Theory (Formerly 49.304)                                          	Pre-req: ECON.2020 Economics II (Macroeconomics).	
+ECON.3100	3	Economics of Less Developed Countries (Formerly 49.310)                         	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3120	3	Managerial Economics (Formerly 49.312)                                          	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3160	3	Investments: Instruments and Strategies (Formerly 49.316)                       	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3170	3	Capital Markets (Formerly 49.317)                                               	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3180	3	Financial Markets and Monetary Policy (Formerly 49.318)                         	Pre-Req: ECON 2010 Economics I (Microeconomics) and ECON 2020 Economics II (Macroeconomics).	
+ECON.3190	3	Public Finance (Formerly 49.319)                                                	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.3250	3	United States Economic History (Formerly 49.325)                                	Pre-Req: ECON 2010 Economics I (Microeconomics) or ECON 2020 Economics II (Macroeconomics).	
+ECON.3450	3	Health Economics (Formerly 49.345)                                              	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.4010	3	Special Topics in Economics (Formerly 49.401)                                   	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.4020	3	Industrial Organization (Formerly 49.402)                                       	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.4030	3	International Trade Theory (Formerly 49.403)                                    	Pre-Req: ECON 2010 Economics I (Microeconomics) or ECON 2020 Economics II (Macroeconomics).	
+ECON.4060	3	International Macroeconomics                                                    	Pre-req: ECON.2020 Economics II (Macroeconomics).	
+ECON.4070	3	Econometrics (Formerly 49.407)                                                  	Pre-Req: ECON.2120 Statistics II.	
+ECON.4090	3	Innovation and Development                                                      	
+ECON.4100	3	Economic Growth and  Development (Formerly 49.410)                              	Pre-Req: ECON 2010 Economics I (Microeconomics) and ECON 2020 Economics II (Macroeconomics).	
+ECON.4150	3	Introduction to Environmental Economics (Formerly 49.315/415)                   	Pre-Req: ECON.2010  Economics I (Microeconomics).	
+ECON.4160	3	Experimental and Behavioral Economics                                           	Pre-req: ECON.2010 Economics I (Microeconomics), and ECON.3030 Microeconomic Theory , or Permission of Instructor.	
+ECON.4850	3	Internship in Economics (Formerly 49.485)                                       	Pre-Reqs: ECON 2020 Economics II (Macroeconomics) and ECON 2010 Economics I (Microeconomics).	
+ECON.4991	3	Independent Studies (Formerly 49.499)                                           	Pre-Req: ECON 2120 Statistics II, ECON 3030 Microeconomic Theory, and ECON 3040 Macroeconomic Theory.	

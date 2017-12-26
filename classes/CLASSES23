@@ -1,0 +1,140 @@
+WLAN.1991	3	Directed Studies World Languages Level 1                                        	
+WLAN.1992	3	Directed Studies World Languages Level 2                                        	
+WLAN.2991	3	Directed Studies World Languages Level 3                                        	
+WLAN.2992	3	Directed Studies World Languages Level 4                                        	
+WLAN.4000	1	Senior Capstone in World Languages and Cultures                                 	
+WLAR.1150	3	Arabic 1 and Culture (Formerly 53.115)                                          	
+WLAR.1160	3	Arabic 2 and Culture (Formerly 53.116)                                          	Pre-Req: WLAR.1150 Arabic 1 and Culture.	
+WLAR.2150	3	Arabic 3 and Culture (Formerly 53.215)                                          	Pre-Req: 53.116 Arabic 2 and Culture.	
+WLAR.2160	3	Arabic 4 and Culture (Formerly 53.216)                                          	Pre-Req: WLAR.2150 Arabic 3 and Culture.	
+WLAR.4940	3	Directed Study in Arabic (Formerly 53.494)                                      	
+WLCH.1050	3	Chinese 1 and Culture (Formerly 53.105)                                         	
+WLCH.1060	3	Chinese 2 and Culture (Formerly 53.106)                                         	Pre-Req: 53.105 Chinese 1 and Culture.	
+WLCH.1080	3	Business Chinese I and Culture                                                  	
+WLCH.2050	3	Chinese 3 and Culture (Formerly 53.205)                                         	Pre-Req: 53.106 Chinese 2 and Culture.	
+WLCH.2060	3	Chinese 4 and Culture (Formerly 53.206)                                         	Pre-Req: 53.205 Chinese 3 and Culture.	
+WLCH.3000	3	Modern Chinese Literature and Culture (Formerly 53.300)                         	
+WLCH.3150	3	Chinese Culture and Civilization (Formerly 53.215)                              	
+WLCH.4900	3	Directed Study in Chinese Culture (Formerly 53.490)                             	
+WLCH.4950	3	Advanced Tutorial in Chinese Culture (Formerly 53.495)                          	
+WLFR.1010	3	French 1 and Culture (Formerly 50.101)                                          	
+WLFR.1020	3	French 2 and Culture (Formerly 50.102)                                          	Pre-Req: WLFR.1010 French 1 and Culture.	
+WLFR.2110	3	French 3 and Culture (Formerly 50.211)                                          	Pre-Req: 50.102 French 2 and Culture	
+WLFR.2120	3	French 4 and Culture (Formerly 50.212)                                          	Pre-Req: 50.211 French 3 and Culture.	
+WLFR.3000	3	Quebec Literature and Culture                                                   	Pre-req: WLFR.2110 French 3 and Culture.	
+WLFR.3010	3	Survey of French Literature (Formerly 50.301)                                   	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3020	3	Survey of Francophone Literature (Formerly 50.302)                              	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3030	3	Special Topics: in Fancophone Studies (Formerly 50.303)                         	Pre-Req: WLFR 2110 French 3 and Culture or WLFR 3990 Elective.	
+WLFR.3100	3	French Speaking World (Formerly 50.310)                                         	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3150	3	Francophone Communities in North America (Formerly 50.315)                      	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3200	3	Contemporary French Civilization and Culture (Formerly 50.320)                  	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3400	3	Contemporary French Cinema (Formerly 50.340)                                    	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3440	3	Advanced French Grammar (Formerly 50.344)                                       	Pre-Req: 50.211 French 3 and Culture or FRE3 or FRE4 student group waiver.	
+WLFR.3460	3	Advanced French Conversation (Formerly 50.346)                                  	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3480	3	Advanced French Conversation and Composition (Formerly 50.348)                  	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3760	3	French Cinema & Society (Formerly 50.376)                                       	
+WLFR.3800	3	Francophone Identity through Cinema (Formerly 50.380)                           	Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.	
+WLFR.3815	3	Francophone Caribbean Studies through Lit & Film                                	Pre-req: WLFR.2110 French 3 and Culture.	
+WLFR.3940	3	Enhancing and Advancing your Knowledge of French (Formerly 50.394)              	Pre-Req: WLFR 2110 French 3 and Culture or WLFR 3990 Elective.	
+WLFR.4910	3	Directed Studies in French Literature (Formerly 50.491)                         	
+WLFR.4920	3	Directed Studies French Composition (Formerly 50.492)                           	
+WLFR.4950	3	Advanced French Tutorial (Formerly 50.495)                                      	
+WLFR.4960	9	French Practicum Experience (Formerly 50.496)                                   	
+WLGE.1010	3	German 1 and Culture (Formerly 51.101)                                          	
+WLGE.1020	3	German 2 and Culture (Formerly 51.102)                                          	Pre-Req: 51.101 German 1 and Culture.	
+WLGE.2110	3	German 3 and Culture (Formerly 51.211)                                          	Pre-Req: WLGE.1020 German 2 and Culture.	
+WLGE.2120	3	German 4 and Culture (Formerly 51.212)                                          	Pre-Req: 51.211 German 3 and Culture.	
+WLGE.3000	3	Grimms' Fairy Tales (Formerly 51.300)                                           	Pre-Req: ENGL 1020 College Writing II.	
+WLGE.3010	3	German Culture and Civilization                                                 	Pre-Req: ENGL 1020 College Writing II.	
+WLGE.4920	3	Direct ed Study in German Composition (Formerly 51.492)                         	
+WLGE.4950	3	Advanced German Tutorial (Formerly 51.495)                                      	
+WLIT.1010	3	Italian 1 and Culture (Formerly 52.101)                                         	
+WLIT.1020	3	Italian 2 and Culture (Formerly 52.102)                                         	Pre-Req: WLIT.1010 Italian 1 and Culture.	
+WLIT.2110	3	Italian 3 and Culture (Formerly 52.211)                                         	Pre-Req: 52.102 Italian 2 and Culture.	
+WLIT.2120	3	Italian 4 and Culture (Formerly 52.212)                                         	Pre-Req; 52.211 Italian 3 and Culture.	
+WLIT.3000	3	Modern & Contemporary Italian Civilization and Culture (Formerly 52.300)        	Pre-Req: ENGL.1020 College Writing II.	
+WLIT.3100	3	Special Topics in Italian Studies                                               	Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.	
+WLIT.3200	3	Special Topics: Italian Study (Formerly 52.320)                                 	Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.	
+WLIT.3250	3	Italian American Literature and Culture (Formerly 52.325)                       	
+WLIT.3300	3	Italian Women Writers (Formerly 52.330)                                         	
+WLIT.3400	3	Readings in Contemporary Italian Literature                                     	Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.	
+WLIT.3450	3	Advanced Italian Conversation (Formerly 52.345)                                 	Pre-Req; WLIT 2110 Italian 3 and Culture, or WLIT 2120 Italian 4 and Culture.	
+WLIT.3500	3	Italian Language and Culture Through Films                                      	Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.	
+WLIT.3600	3	Advanced Italian Conversation and Composition                                   	Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.	
+WLIT.3730	3	Italian Humanism (Formerly 52.373)                                              	
+WLIT.3780	3	Italian Cinema and Culture (Formerly 52.378)                                    	
+WLIT.3800	3	Italian Cinema: Directors and Themes (Formerly 52.380)                          	Pre-Req: ENGL 1020 College Writing II, or permission of instructor.	
+WLIT.4910	3	Directed Study in Italian Literature (Formerly 52.491)                          	
+WLIT.4920	3	Directed Studies Italian Composition (Formerly 52.492)                          	
+WLIT.4950	3	Advanced Italian Tutorial (Formerly 52.495)                                     	
+WLIT.4960	3	Italian Practicum Experience (Formerly 52.496)                                  	
+WLKH.1350	3	Cambodian 1 and Culture (Formerly 53.135)                                       	
+WLKH.1360	3	Cambodian 2 and Culture (Formerly 53.136)                                       	Pre-Req: WLKH.1350 Cambodian 1 and Culture.	
+WLKH.2100	3	Introduction to Cambodian Culture (Formerly 59.210)                             	
+WLKH.2350	3	Cambodian 3 and Culture (Formerly 53.235)                                       	Pre-Req: 53.136 Cambodian 2 and Culture.	
+WLKH.2360	3	Cambodian 4 and Culture (Formerly 53.236)                                       	Pre-Req: WLKH.2350 Cambodian 3 and Culture.	
+WLKH.3100	3	The Literary Cultures of Cambodia                                               	Pre-req: WLKH.2100 Introduction to Cambodian Culture.	
+WLKH.3200	3	Cambodian Culture in Lowell                                                     	Pre-req: WLKH.2100 Introduction to Cambodian Culture.	
+WLKH.3250	3	Contemporary Cambodian Cinema                                                   	Pre-req: WLKH.2100 Introduction to Cambodian Culture.	
+WLKH.3490	3	Literature, Politics and Genocide in Cambodia (Formerly 59.349)                 	
+WLKH.4000	3	Special Topics: in Southeast Asian Studies (Formerly 53.400)                    	Pre-Req: ENGL.1020 College Writing II.	
+WLKH.4930	6	Directed Study in Cambodian Culture (Formerly 53.493)                           	
+WLLA.3200	3	Special Topics in Latin Study (Formerly 56.320)                                 	
+WLLA.4910	3	Directed Studies in Latin (Formerly 56.491)                                     	
+WLPO.1100	3	Portuguese for Spanish Speakers I (Formerly 53.110)                             	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLPO.1130	3	Portuguese 1 and Culture (Formerly 53.113)                                      	
+WLPO.1140	3	Portuguese 2 and Culture (Formerly 53.114)                                      	Pre-req: 53.113 Portuguese 1 or  Portuguese 1 Student group for level 1/waiver.	
+WLPO.2130	3	Portuguese 3 and Culture (Formerly 53.213)                                      	Pre-req: 53.114 Portuguese 2 or  Portuguese 2 Student group for level 2/waiver.	
+WLPO.2140	3	Portuguese 4 and Culture (Formerly 53.214)                                      	Pre-req: WLPO.2130 Portuguese 3 or  Portuguese 3 Student group for level 3/waiver.	
+WLPO.3011	3	Special Topics: in Lusophone Studies (Formerly 53.301)                          	Pre-Req: ENGL.1020 College Writing II.	
+WLPO.3020	3	Special Topics: in Portuguese Studies (Formerly 53.302)                         	Pre-Req: ENGL.1020 College Writing II.	
+WLPO.3030	3	Survey of Brazilian Cinema                                                      	Pre-Req: ENGL 1020 College Writing II.	
+WLPO.3040	3	Survey of Brazilian,Portuguese and Lusophone African Cinema (Formerly 53.304)   	Pre-Req: ENGL.1020 College Writing II.	
+WLPO.3050	3	Culture and Civilization of Brazil                                              	Pre-Req: ENGL 1020 College Writing II, or permission of instructor.	
+WLPO.3370	3	Portuguese Literature in Translation (Formerly 53.237)                          	Pre-Req: ENGL.1020 College Writing II.	
+WLPO.4800	3	Directed Studies in Lusophone Literature (Formerly 53.480)                      	
+WLPO.4810	3	Directed Studies in Portuguese Composition (Formerly 53.481)                    	
+WLPO.4820	3	Directed Studies in Portuguese Literature (Formerly 53.482)                     	
+WLPO.4830	3	Independent Studies in Portuguese (Formerly 53.483)                             	
+WLPO.4840	3	Portuguese Practicum Experience (Formerly 53.484)                               	
+WLPO.4850	3	Advanced Portuguese Tutorial (Formerly 53.485)                                  	
+WLSP.1010	3	Spanish 1 and Culture (Formerly 54.101)                                         	
+WLSP.1020	3	Spanish 2 and Culture (Formerly 54.102)                                         	Pre-Req; WLSP.1010 Spanish 1 and Culture.	
+WLSP.1030	3	Medical Spanish (Formerly 54.103)                                               	Pre-Req; WLSP.1010 Spanish 1 and Culture.	
+WLSP.1040	6	Intensive Spanish 1 and 2 (Formerly 54.104)                                     	
+WLSP.2040	6	Intensive Spanish 3 and 4 (Formerly 54.204)                                     	Pre-Req: WLSP 1040 Spanish 1&2 Intensive, or WLSP 1020 Spanish 2 and Culture.	
+WLSP.2110	3	Spanish 3 and Culture (Formerly 54.211)                                         	Pre-Req: WLSP 1040 Spanish 1&2 Intensive, or WLSP 1020 Spanish 2 and Culture.	
+WLSP.2120	3	Spanish 4 and Culture (Formerly 54.212)                                         	Pre-Req: WLSP.2110 Spanish 3 and Culture.	
+WLSP.3000	3	Special Topics in Hispanic Studies (Formerly 54.300)                            	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.3010	3	Introduction to Spanish Literature (Formerly 54.301)                            	Pre-req: WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 and 4, or WLSP.2990 Language-Spanish 2000 level elective.	
+WLSP.3020	3	Survey of Latin American Literature (Formerly 54.302)                           	Pre-Req: WLSP 2110 Spanish 3 and Culture, or WLSP 2120 Spanish 4 and Culture.	
+WLSP.3030	3	Modern and Contemporary Latin American Literature (Formerly 54.303)             	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3040	3	Special Topics: in Latin American Studies (Formerly 54.304)                     	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.3100	3	Spanish Civilization and Culture (Formerly 54.310)                              	Pre-req: WLSP 2120 Spanish 4 and Culture or WLSP 2040 Intensive Spanish 3 & 4.	
+WLSP.3110	3	Contemporary Spanish Culture and Society                                        	Pre-Req: ENGL 1020 College Writing II, or permission of instructor.	
+WLSP.3130	3	Fieldwork in the Spanish Community (Formerly 54.313)                            	Pre-Req: WLSP 2110 Spanish 3 and Culture, or WLSP 2120 Spanish 4 and Culture.	
+WLSP.3150	3	Latin American Civilization and Culture (Formerly 54.315)                       	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3200	3	Special Topics in Spanish Studies (Formerly 54.320)                             	Pre-Req: WLSP.2110 Spanish 3 and Culture.	
+WLSP.3300	3	Spanish and Latin-American Women Writers (Formerly 54.330)                      	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3330	3	Advanced Spanish Grammar (Formerly 54.333)                                      	Pre-req: WLSP 2120 Spanish 4 and Culture or WLSP 2040 Intensive Spanish 3 & 4.	
+WLSP.3340	3	Advanced Spanish composition (Formerly 54.334)                                  	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3470	3	Advanced Spanish Conversation (Formerly 54.347)                                 	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3500	3	Introduction to Literary Analysis (Formerly 54.350)                             	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.3510	3	Latin American Theater (Formerly 54.351)                                        	Pre-Req: WLSP.2110 Spanish 3 and Culture.	
+WLSP.3520	3	Hispanic Perspectives (Formerly 54.352)                                         	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.3710	3	Hispanic Literature & Film (Formerly 54.371)                                    	Pre-Reqs: 54. 211 Spanish 3 and Culture or WLSP 2120 Spanish 4 and Culture.	
+WLSP.3750	3	Latin American and Spanish Cinema (Formerly 54.375)                             	Pre-req: WLSP 1020 Spanish 2 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.4010	3	Spanish Selected Authors (Formerly 54.401)                                      	Pre-req: WLSP 2120 Spanish 4 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.	
+WLSP.4040	3	Cervantes (Formerly 54.404)                                                     	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.4045	3	Cervantes' Don Quijote in translation                                           	Pre-Req: ENGL 1020 College Writing II.	
+WLSP.4090	3	Twentieth Century Spanish Literature (Formerly 54.409)                          	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.4100	3	Realism and the Nineteenth Century Spanish Novel (Formerly 54.410)              	Pre-req: WLSP.3010 Introduction to Spanish Literature, or WLSP.3500 Introduction to Literary Analysis.	
+WLSP.4110	3	Hispanic Short Fiction (Formerly 54.411)                                        	
+WLSP.4160	3	The Latin American Novel (Formerly 54.416)                                      	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.4560	3	Spanish Translation Seminar (Formerly 54.456)                                   	Pre-Req: 54.212 Spanish 4 and Culture.	
+WLSP.4910	3	Directed Studies in Spanish Literature (Formerly 54.491)                        	
+WLSP.4920	4	Directed Study in Latin America (Formerly 54.492)                               	
+WLSP.4930	3	Directed Studies in Spanish Composition (Formerly 54.493)                       	
+WLSP.4940	3	Independent Study in Spanish (Formerly 54.494)                                  	
+WLSP.4950	3	Advanced Spanish Tutorial (Formerly 54.495)                                     	
+WLSP.4960	3	Spanish Practicum Experience (Formerly 54.496)                                  	

@@ -1,0 +1,41 @@
+PLAS.0010	0	Plastics Safety Lecture (Formerly 26.001)                                       	Co-Reqs:  PLAS 2150 or PLAS 3150 or 26415 or PLAS 4160 or PLAS 5740	
+PLAS.0020	0	Plastics Safety Lecture (Formerly 26.002)                                       	Co-Reqs: PLAS 2160 or PLAS 3160 or PLAS 4150 or PLAS 4160 or PLAS 5720.	
+PLAS.1070	2	Introduction to Plastics Engineering  (Formerly 25.107/26.107)                  	
+PLAS.2010	3	Polymer Materials I (Formerly 26.201)                                           	Pre-Reqs:  CHEM 1210 Chemistry I.	
+PLAS.2020	3	Polymer Materials II (Formerly 26.202)                                          	Pre-Req: CHEM 1210Chemistry I.	
+PLAS.2100	1	Professional Development Seminar  (Formerly 26.210)                             	
+PLAS.2110	3	Engineering Mechanics (Formerly 26.211)                                         	Pre-req: 92.121 Calculus I and PHYS 1410 Physics I.	
+PLAS.2120	1	Dynamics (Formerly 26.212)                                                      	Pre-req: 92.121 Calculus I and PHYS 1410 Physics I.	
+PLAS.2150	1	Plastics Processing Engineering Laboratory I (Formerly 26.215)                  	Pre-Req or Co-Req: PLAS 2010 Polymer Materials I, Co-Req: PLAS 0010 Plastics Safety Lecture.	
+PLAS.2160	1	Plastics Process Engineering Laboratory II (Formerly 26.216)                    	Co-Req: PLAS.0020 Plastics Safety Lecture.	
+PLAS.2180	2	Introduction to Design (Formerly 26.218)                                        	
+PLAS.2470	3	Thermodynamics  (Formerly 26.247)                                               	Pre-Req: MATH 1320 Calculus II  and PHYS 1410 Physics I.	
+PLAS.3060	3	Methods of Experimental Analysis (Formerly 26.306)                              	Pre-Req:  MATH 1320 Calculus II.	
+PLAS.3100	1	Co-op Assessment I (Formerly 26.310)                                            	Pre/Co-req: PLAS 2100 Professional Development Seminar; and Pre/Co-Req:PLAS 3CE Cooperative Education.PLAS 2100&PLAS; 3CE Pre/Co-Req	
+PLAS.3140	3	Fluid Flow (Formerly 26.314)                                                    	Pre-Req: MATH 1320 Calculus II.	
+PLAS.3150	1	Plastics Process Laboratory III (Formerly 26.315)                               	Pre-Req: PLAS 2150 or PLAS 2160 Plastics Processing Eng Lab I/II, PLAS 2010 or PLAS 2020 Polymeric Materials I/II; Co-Req: PLAS 0010 Plastics Safety Lecture.	
+PLAS.3160	1	Plastics Process Engineering Laboratory IV (Formerly 26.316)                    	Pre-Req: PLAS 2150 or PLAS 2160 Plastics Processing Eng Lab I/II, PLAS 2010 or PLAS 2020 Polymeric Materials I/II; Co-Req: PLAS 0020 Plastics Safety Lecture.	
+PLAS.3200	2	Co-op Assessment I (6 months)                                                   	Pre-req: PLAS.3CE Co-op Experience and PLAS.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.	
+PLAS.3480	3	Heat Transfer (Formerly 26.348)                                                 	Pre/Co-Req: MATH 2310 Calculus III; MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+PLAS.3730	3	Mold Engineering  (Formerly 26.373)                                             	Pre-Reqs: PLAS 2180 Intro to Design or PLAS.1070 Introduction to Plastics Engineering; Pre-Req or Co-Reqs:  PLAS 3480 Heat Transfer. (PLAS.3140 recommended pre-requisite).	
+PLAS.3770	3	Plastics Process Engineering I  (Formerly 26.377/577)                           	Pre-Reqs: PLAS 2010 Polymer Materials I or PLAS 2020 Polymer Materials II. Pre-Req or Co-Req: PLAS 3140 Fluid Flow.  PLAS.3140 is a Co-Req of PLAS.3770.	
+PLAS.3780	3	Plastics Process Engineering II  (Formerly 26.378)                              	Pre-Reqs: PLAS 2010 Polymer Materials I or PLAS 2020 Polymer Materials II.	
+PLAS.3810	3	Polymer Science for Engineers I  (Formerly 26.381)                              	Pre-Req: PLAS 2010 Polymer Materials I or PLAS 2020 Polymeric Materials II and CHEM 2040 Intro to Organic & Polymer Chemistry or CHEM 2210 Organic Chemistry I.	
+PLAS.3820	3	Polymer Science for Engineers II  (Formerly 26.382)                             	Pre-Req: PLAS 2010 Polymer Materials I or PLAS 2020 Polymeric Materials II and CHEM 2040 Intro to Organic & Polymer Chemistry or CHEM 2210 Organic Chemistry I.	
+PLAS.3830	1	Polymer Science I Lab  (Formerly 26.383)                                        	Pre-Req: CHEM 2040 Intro Organic & Polymer Chem or CHEM 2210 Organic Chemistry I; Co-Req: PLAS 3810 Polymer Science for Engineers I.	
+PLAS.3840	1	Polymer Science II Lab  (Formerly 26.384)                                       	Pre-Reqs: CHEM 2040 Intro to Organic and Polymer Chemistry or CHEM 2210 Organic Chemistry I; Co-Req: PLAS 3820 Polymer Sci for Engineers II.	
+PLAS.3CE	0	Co-op Experience  (Formerly 26.3CE)                                             	
+PLAS.3CO-OP	1	Plastics Engineering Curricular Practical Training (CPT)  (Formerly 26.3CO-OP)  	
+PLAS.4030	3	Mechanical Behavior of Polymers  (Formerly 26.403/503)                          	Pre-Reqs: (ENGN.2050 or PLAS.2110) and PLAS.2150 Plastics Process Engin. Lab I, MATH.2340 Differential Equations or MATH.2360 Engin. Differential Equations.	
+PLAS.4040	3	Process Control  (Formerly 26.404)                                              	Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.	
+PLAS.4060	3	Polymer Structure, Properties and Applications  (Formerly 26.406)               	Pre-Req: 26.202 Polymeric Materials II.	
+PLAS.4090	3	Senior Research Plastics I  (Formerly 26.409)                                   	Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture.	
+PLAS.4100	2	Coop Assessment II  (Formerly 26.410)                                           	Pre-Req or Co-Req: PLAS 2100; Pre-Req: PLAS 3CE or PLAS 4CE.	
+PLAS.4150	1	Capstone Project I  (Formerly 26.415)                                           	Co-req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture; and Senior Status.	
+PLAS.4160	1	Capstone Project II  (Formerly 26.416)                                          	Pre-Req: PLAS 4150 Capstone Project I; and Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture. Senior Status.	
+PLAS.4170	1	Honors Capstone Project II  (Formerly 26.417)                                   	Co-Req: 26.416 Capstone Project II; Honors only. Senior Status.	
+PLAS.4180	3	Product and Process Design  (Formerly 26.418)                                   	Pre-req: PLAS.2110 Engineering Mechanics, and PLAS.2180 Introduction to Design or PLAS.1070/ENGN.1070 introduction to Plastics Engineering. Recommended Pre-reqs: PLAS.3730 and PLAS.3780.	
+PLAS.4200	2	Co-op Assessment 2 (6 months)                                                   	Pre-req: PLAS.3CE Co-op Experience and PLAS.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.	
+PLAS.4500	3	Nanoscale Trans. Phenomena for Manuf.  Nanodevices (Formerly 10/22/26.450)      	Pre-Req: 26.314 Fluid Flow, 26.348 Heat Transfer, and 26.218 Intro to Design.	
+PLAS.4ACE	0	Cooperative Education Experience (Formerly 26.4ACE)                             	Pre-req: PLAS 2100 Professional Developement Seminar, and PLAS 3CE Cooperative Education Experience I, and PLAS 4CE Cooperative Education Experience II.	
+PLAS.4CE	0	Co-op Experience  (Formerly 26.4CE)                                             	Pre-req. PLAS 3CE; Pre-req. or Co-req. PLAS 2100	
