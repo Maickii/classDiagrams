@@ -1,4 +1,4 @@
-python3 ./get_prerequisites.py > classes
+python3 ./get_prerequisite.py $1 > classes
 
 sed 's/ /./g' classes | awk '{ print $1 }' > dept_id.txt
 sed 's/ /./g' classes | awk '{ print $2 }' > credits.txt

@@ -24,13 +24,19 @@ import sys
 
 #url = raw_input("Enter a website to extract the URL's from: ")
 #link = "https://www.uml.edu/student-dashboard/#my-academics/class-schedule/search?term=2730&subjects=" + dept +"&partialCatalogNumber=" + classID
-link = "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx"
+
+
+link = sys.argv[1]
+
 
 r = requests.get(link)
 
 data = r.text
 
 soup = BeautifulSoup(data, "html.parser")
+
+for link in soup.find_all('a'):
+    print(link.get('href'))
 
 #print(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
 #file.write(soup.find(number=sys.argv[1]+"."+sys.argv[2]).p.next_sibling.next_sibling.string)
@@ -42,13 +48,13 @@ soup = BeautifulSoup(data, "html.parser")
 #	file.write(link.get('href'))
 #	file.write("\n")
 #print(soup.find())
-for name in soup.find_all('uml-catalog-course'):
-	if name.get('number') is not None:
-		print(name.get('number') + "\t" + name.get('credits-max') + "\t", end="")
-		print("%-80s\t" % name.find(slot="name").string, end="")
-	if name.p is not None and name.p.next_sibling is not None and name.p.next_sibling.next_sibling is not None:
-		print(name.p.next_sibling.next_sibling.string + "\t", end="")
-	print("")
+#for name in soup.find_all('uml-catalog-course'):
+#	if name.get('number') is not None:
+#		print(name.get('number') + "\t" + name.get('credits-max') + "\t", end="")
+#		print("%-80s\t" % name.find(slot="name").string, end="")
+#	if name.p is not None and name.p.next_sibling is not None and name.p.next_sibling.next_sibling is not None:
+#		print(name.p.next_sibling.next_sibling.string + "\t", end="")
+#	print("")
 #uml-catalog-course
 
 
